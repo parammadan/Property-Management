@@ -1,0 +1,51 @@
+Prop_ID,Prop_Code,Prop_Name,Prop_Address,Prop_City,Prop_State,Prop_Zip
+1,p0001,"1 Park Drive","Opposite to Fenway Park",Boston,Massachusetts,2215
+2,p0002,"2 Park Drive","Opposite to Fenway Park",Boston,Massachusetts,2215
+3,p0003,"3 Park Drive","Opposite to Fenway Park",Boston,Massachusetts,2215
+4,p0004,"4 Park Drive","Opposite to Fenway Park",Boston,Massachusetts,2215
+5,p0005,"5 Park Drive","Opposite to Fenway Park",Boston,Massachusetts,2215
+6,p0006,"1 Mission Main","142 Tremont Street",Amherst,Massachusetts,2116
+7,p0007,"2 Mission Main","142 Tremont Street",Amherst,Massachusetts,2116
+8,p0008,"3 Mission Main","142 Tremont Street",Amherst,Massachusetts,2116
+9,p0009,"4 Mission Main","142 Tremont Street",Amherst,Massachusetts,2116
+10,p0010,"5 Mission Main","142 Tremont Street",Amherst,Massachusetts,2116
+11,p0011,"6 Mission Main","142 Tremont Street",Amherst,Massachusetts,2116
+12,p0012,"7 Mission Main","142 Tremont Street",Amherst,Massachusetts,2116
+13,p0013,"8 Mission Main","142 Tremont Street",Amherst,Massachusetts,2116
+14,p0014,"9 Mission Main","142 Tremont Street",Amherst,Massachusetts,2116
+15,p0015,"10 Mission Main","142 Tremont Street",Amherst,Massachusetts,2116
+16,p0016,"JVue at LMA Apartments","Hisborough Street",Lowell,Massachusetts,2188
+17,p0017,"Longwood Apartments","Hilsborough Street",Lowell,Massachusetts,2188
+18,p0018,"444 Redwood Ln","Jackson Square",Raleigh,"North Carolina",28201
+19,p0019,"888 Willow St","Jackson Square",Raleigh,"North Carolina",28201
+20,p0020,"505 Redwood Ave","Jackson Square",Durham,"North Carolina",28211
+21,p0021,"400 Birch Rd","Commonwealth Ave",Atlanta,Georgia,32634
+22,p0022,"401 Birch Rd","Commonwealth Ave",Atlanta,Georgia,32634
+23,p0023,"402 Birch Rd","Commonwealth Ave",Atlanta,Georgia,32634
+24,p0024,"403 Birch Rd","Commonwealth Ave",Atlanta,Georgia,32634
+25,p0025,"404 Birch Rd","Commonwealth Ave",Atlanta,Georgia,32634
+26,p0026,"405 Birch Rd","Commonwealth Ave",Atlanta,Georgia,32634
+27,p0027,"406 Birch Rd","Commonwealth Ave",Atlanta,Georgia,32634
+28,p0028,"407 Birch Rd","Commonwealth Ave",Atlanta,Georgia,32634
+29,p0029,"408 Birch Rd","Commonwealth Ave",Atlanta,Georgia,32634
+30,p0030,"409 Birch Rd","Commonwealth Ave",Atlanta,Georgia,32634
+31,p0031,"410 Birch Rd","Commonwealth Ave",Atlanta,Georgia,32634
+32,p0032,"1131 Carlton Ave",Riverside,Athens,Georgia,32650
+33,p0033,"1132 Carlton Ave",Riverside,Athens,Georgia,32650
+34,p0034,"1133 Carlton Ave",Riverside,Athens,Georgia,32650
+35,p0035,"1134 Carlton Ave",Riverside,Athens,Georgia,32650
+36,p0036,"1135 Carlton Ave",Riverside,Athens,Georgia,32650
+37,p0037,"1136 Carlton Ave",Riverside,Athens,Georgia,32650
+38,p0038,"1137 Carlton Ave",Riverside,Athens,Georgia,32650
+39,p0039,"1138 Carlton Ave",Riverside,Athens,Georgia,32650
+40,p0040,"1139 Carlton Ave",Riverside,Athens,Georgia,32650
+41,p0041,"1140 Carlton Ave",Riverside,Athens,Georgia,32650
+42,p0042,"1141 Carlton Ave",Riverside,Athens,Georgia,32650
+43,p0043,"1142 Carlton Ave",Riverside,Athens,Georgia,32650
+44,p0044,"1143 Carlton Ave",Riverside,Athens,Georgia,32650
+45,p0045,"1144 Carlton Ave",Riverside,Athens,Georgia,32650
+46,p0046,"1145 Carlton Ave",Riverside,Athens,Georgia,32650
+47,p0047,"888 Washington Street","Jamaica Plain",Charlotte,"North Carolina",28267
+48,p0048,"889 Washington Street","Jamaica Plain",Charlotte,"North Carolina",28267
+49,p0049,"890 Washington Street","Jamaica Plain",Charlotte,"North Carolina",28267
+50,p0050,"891 Washington Street","Jamaica Plain",Charlotte,"North Carolina",28267

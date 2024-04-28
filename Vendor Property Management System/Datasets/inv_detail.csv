@@ -1,0 +1,2001 @@
+InvDet_ID,Inv_ID,Det_Desc,Quantity,UnitPrice,GrossAmt,TaxAmt,TotalAmt
+1,1,"Plumber Service",10,44,440,44,484
+2,1,"Plumber Service",7,42,294,29,323
+3,2,"Electricity Service",2,11,22,2,24
+4,2,"Window Cleaning Service",9,21,189,19,208
+5,3,"Window Cleaning Service",2,22,44,4,48
+6,3,"Gas Service",10,42,420,42,462
+7,4,"Flooring Service",4,47,188,19,207
+8,4,"Gas Service",3,11,33,3,36
+9,5,"Window Cleaning Service",6,28,168,17,185
+10,5,"Electricity Service",6,28,168,17,185
+11,6,"Flooring Service",4,15,60,6,66
+12,6,"AC Maintenance Service",3,29,87,9,96
+13,7,"Gas Service",5,34,170,17,187
+14,7,"AC Maintenance Service",5,29,145,15,160
+15,8,"Plumber Service",7,23,161,16,177
+16,8,"Gas Service",5,38,190,19,209
+17,9,"Plumber Service",1,37,37,4,41
+18,9,"Electricity Service",8,13,104,10,114
+19,10,"Plumber Service",6,14,84,8,92
+20,10,"Plumber Service",10,17,170,17,187
+21,11,"Window Cleaning Service",2,23,46,5,51
+22,11,"Window Cleaning Service",2,46,92,9,101
+23,12,"Window Cleaning Service",3,25,75,8,83
+24,12,"Electricity Service",6,47,282,28,310
+25,13,"Electricity Service",9,41,369,37,406
+26,13,"Gas Service",3,40,120,12,132
+27,14,"Plumber Service",3,32,96,10,106
+28,14,"Gas Service",4,37,148,15,163
+29,15,"Window Cleaning Service",3,29,87,9,96
+30,15,"Plumber Service",1,42,42,4,46
+31,16,"Flooring Service",2,14,28,3,31
+32,16,"Electricity Service",10,16,160,16,176
+33,17,"Gas Service",2,44,88,9,97
+34,17,"Electricity Service",4,41,164,16,180
+35,18,"AC Maintenance Service",9,24,216,22,238
+36,18,"Gas Service",5,44,220,22,242
+37,19,"Gas Service",10,29,290,29,319
+38,19,"Flooring Service",1,48,48,5,53
+39,20,"Window Cleaning Service",1,43,43,4,47
+40,20,"Electricity Service",8,41,328,33,361
+41,21,"Flooring Service",1,48,48,5,53
+42,21,"Gas Service",6,32,192,19,211
+43,22,"Electricity Service",2,44,88,9,97
+44,22,"Flooring Service",8,40,320,32,352
+45,23,"Plumber Service",6,24,144,14,158
+46,23,"Window Cleaning Service",7,16,112,11,123
+47,24,"Electricity Service",7,50,350,35,385
+48,24,"Electricity Service",4,25,100,10,110
+49,25,"Plumber Service",6,49,294,29,323
+50,25,"Window Cleaning Service",3,43,129,13,142
+51,26,"Electricity Service",4,26,104,10,114
+52,26,"AC Maintenance Service",7,48,336,34,370
+53,27,"Electricity Service",1,13,13,1,14
+54,27,"Flooring Service",5,24,120,12,132
+55,28,"Window Cleaning Service",1,11,11,1,12
+56,28,"Plumber Service",6,50,300,30,330
+57,29,"Flooring Service",7,50,350,35,385
+58,29,"Flooring Service",6,39,234,23,257
+59,30,"Window Cleaning Service",9,25,225,23,248
+60,30,"Electricity Service",9,42,378,38,416
+61,31,"Electricity Service",8,37,296,30,326
+62,31,"Window Cleaning Service",8,46,368,37,405
+63,32,"Gas Service",1,25,25,3,28
+64,32,"Window Cleaning Service",10,27,270,27,297
+65,33,"Electricity Service",9,42,378,38,416
+66,33,"Window Cleaning Service",9,47,423,42,465
+67,34,"Plumber Service",7,11,77,8,85
+68,34,"Electricity Service",5,41,205,21,226
+69,35,"AC Maintenance Service",1,26,26,3,29
+70,35,"Gas Service",1,28,28,3,31
+71,36,"Plumber Service",7,39,273,27,300
+72,36,"Window Cleaning Service",2,28,56,6,62
+73,37,"Flooring Service",8,50,400,40,440
+74,37,"Gas Service",6,23,138,14,152
+75,38,"Plumber Service",1,50,50,5,55
+76,38,"Flooring Service",10,27,270,27,297
+77,39,"Flooring Service",7,35,245,25,270
+78,39,"Electricity Service",4,36,144,14,158
+79,40,"Window Cleaning Service",1,35,35,4,39
+80,40,"Window Cleaning Service",2,14,28,3,31
+81,41,"Flooring Service",4,48,192,19,211
+82,41,"Electricity Service",4,49,196,20,216
+83,42,"Gas Service",2,27,54,5,59
+84,42,"Window Cleaning Service",10,29,290,29,319
+85,43,"Flooring Service",6,14,84,8,92
+86,43,"Electricity Service",4,50,200,20,220
+87,44,"Gas Service",4,20,80,8,88
+88,44,"Flooring Service",7,30,210,21,231
+89,45,"Plumber Service",5,25,125,13,138
+90,45,"Plumber Service",9,50,450,45,495
+91,46,"Flooring Service",5,12,60,6,66
+92,46,"AC Maintenance Service",3,25,75,8,83
+93,47,"Plumber Service",4,46,184,18,202
+94,47,"Gas Service",7,22,154,15,169
+95,48,"Plumber Service",10,28,280,28,308
+96,48,"Electricity Service",9,10,90,9,99
+97,49,"Flooring Service",10,50,500,50,550
+98,49,"AC Maintenance Service",6,23,138,14,152
+99,50,"AC Maintenance Service",1,50,50,5,55
+100,50,"Window Cleaning Service",2,37,74,7,81
+101,51,"AC Maintenance Service",4,11,44,4,48
+102,51,"Gas Service",8,43,344,34,378
+103,52,"Plumber Service",8,45,360,36,396
+104,52,"Window Cleaning Service",7,41,287,29,316
+105,53,"AC Maintenance Service",7,48,336,34,370
+106,53,"AC Maintenance Service",10,47,470,47,517
+107,54,"Plumber Service",1,36,36,4,40
+108,54,"Plumber Service",1,43,43,4,47
+109,55,"AC Maintenance Service",10,15,150,15,165
+110,55,"Plumber Service",8,14,112,11,123
+111,56,"Gas Service",3,37,111,11,122
+112,56,"Electricity Service",6,33,198,20,218
+113,57,"Flooring Service",9,24,216,22,238
+114,57,"Electricity Service",5,19,95,10,105
+115,58,"Flooring Service",6,42,252,25,277
+116,58,"Plumber Service",1,13,13,1,14
+117,59,"Electricity Service",2,33,66,7,73
+118,59,"Plumber Service",2,43,86,9,95
+119,60,"Gas Service",10,29,290,29,319
+120,60,"Electricity Service",8,39,312,31,343
+121,61,"Window Cleaning Service",8,41,328,33,361
+122,61,"AC Maintenance Service",8,21,168,17,185
+123,62,"Window Cleaning Service",6,21,126,13,139
+124,62,"Flooring Service",3,26,78,8,86
+125,63,"Electricity Service",4,45,180,18,198
+126,63,"AC Maintenance Service",3,39,117,12,129
+127,64,"Flooring Service",1,13,13,1,14
+128,64,"Electricity Service",9,32,288,29,317
+129,65,"Flooring Service",6,23,138,14,152
+130,65,"Flooring Service",6,20,120,12,132
+131,66,"Window Cleaning Service",4,50,200,20,220
+132,66,"Window Cleaning Service",2,18,36,4,40
+133,67,"Window Cleaning Service",7,21,147,15,162
+134,67,"AC Maintenance Service",1,40,40,4,44
+135,68,"Window Cleaning Service",9,29,261,26,287
+136,68,"Flooring Service",4,15,60,6,66
+137,69,"Plumber Service",9,42,378,38,416
+138,69,"Gas Service",10,49,490,49,539
+139,70,"Window Cleaning Service",6,20,120,12,132
+140,70,"AC Maintenance Service",3,16,48,5,53
+141,71,"AC Maintenance Service",10,50,500,50,550
+142,71,"Plumber Service",4,38,152,15,167
+143,72,"Electricity Service",1,35,35,4,39
+144,72,"Electricity Service",8,18,144,14,158
+145,73,"Gas Service",1,29,29,3,32
+146,73,"Plumber Service",3,40,120,12,132
+147,74,"Gas Service",1,21,21,2,23
+148,74,"Electricity Service",8,50,400,40,440
+149,75,"Window Cleaning Service",5,26,130,13,143
+150,75,"Plumber Service",1,29,29,3,32
+151,76,"Gas Service",5,36,180,18,198
+152,76,"Window Cleaning Service",2,17,34,3,37
+153,77,"Electricity Service",8,21,168,17,185
+154,77,"Flooring Service",7,38,266,27,293
+155,78,"AC Maintenance Service",1,36,36,4,40
+156,78,"Flooring Service",8,14,112,11,123
+157,79,"Gas Service",5,24,120,12,132
+158,79,"Electricity Service",3,44,132,13,145
+159,80,"Electricity Service",3,47,141,14,155
+160,80,"Flooring Service",1,30,30,3,33
+161,81,"AC Maintenance Service",1,15,15,2,17
+162,81,"Plumber Service",5,46,230,23,253
+163,82,"Electricity Service",10,47,470,47,517
+164,82,"Window Cleaning Service",6,24,144,14,158
+165,83,"Electricity Service",2,50,100,10,110
+166,83,"AC Maintenance Service",1,35,35,4,39
+167,84,"AC Maintenance Service",10,47,470,47,517
+168,84,"Flooring Service",3,30,90,9,99
+169,85,"Window Cleaning Service",9,16,144,14,158
+170,85,"Plumber Service",9,28,252,25,277
+171,86,"AC Maintenance Service",6,41,246,25,271
+172,86,"Plumber Service",1,39,39,4,43
+173,87,"Plumber Service",1,18,18,2,20
+174,87,"Flooring Service",7,17,119,12,131
+175,88,"AC Maintenance Service",6,36,216,22,238
+176,88,"AC Maintenance Service",10,22,220,22,242
+177,89,"Window Cleaning Service",5,14,70,7,77
+178,89,"Plumber Service",5,27,135,14,149
+179,90,"Electricity Service",2,22,44,4,48
+180,90,"Flooring Service",10,31,310,31,341
+181,91,"Window Cleaning Service",4,50,200,20,220
+182,91,"Electricity Service",6,15,90,9,99
+183,92,"Gas Service",7,45,315,32,347
+184,92,"Window Cleaning Service",7,21,147,15,162
+185,93,"Electricity Service",2,30,60,6,66
+186,93,"Electricity Service",4,29,116,12,128
+187,94,"AC Maintenance Service",2,25,50,5,55
+188,94,"Gas Service",5,13,65,7,72
+189,95,"Window Cleaning Service",4,27,108,11,119
+190,95,"Plumber Service",2,19,38,4,42
+191,96,"Gas Service",9,15,135,14,149
+192,96,"Flooring Service",7,38,266,27,293
+193,97,"AC Maintenance Service",7,38,266,27,293
+194,97,"Electricity Service",9,33,297,30,327
+195,98,"Gas Service",4,44,176,18,194
+196,98,"Plumber Service",4,20,80,8,88
+197,99,"Electricity Service",8,47,376,38,414
+198,99,"Plumber Service",8,17,136,14,150
+199,100,"Flooring Service",2,26,52,5,57
+200,100,"Gas Service",8,41,328,33,361
+201,101,"Plumber Service",9,31,279,28,307
+202,101,"AC Maintenance Service",2,22,44,4,48
+203,102,"AC Maintenance Service",6,48,288,29,317
+204,102,"Window Cleaning Service",1,48,48,5,53
+205,103,"AC Maintenance Service",7,20,140,14,154
+206,103,"Electricity Service",9,49,441,44,485
+207,104,"Window Cleaning Service",7,32,224,22,246
+208,104,"Plumber Service",3,16,48,5,53
+209,105,"Electricity Service",2,16,32,3,35
+210,105,"Window Cleaning Service",9,46,414,41,455
+211,106,"Plumber Service",3,42,126,13,139
+212,106,"AC Maintenance Service",7,43,301,30,331
+213,107,"Gas Service",1,39,39,4,43
+214,107,"Gas Service",4,28,112,11,123
+215,108,"Window Cleaning Service",3,39,117,12,129
+216,108,"AC Maintenance Service",2,45,90,9,99
+217,109,"Electricity Service",4,18,72,7,79
+218,109,"Flooring Service",4,21,84,8,92
+219,110,"AC Maintenance Service",7,36,252,25,277
+220,110,"Electricity Service",9,14,126,13,139
+221,111,"Window Cleaning Service",7,46,322,32,354
+222,111,"Plumber Service",1,24,24,2,26
+223,112,"Window Cleaning Service",3,31,93,9,102
+224,112,"Window Cleaning Service",10,28,280,28,308
+225,113,"Plumber Service",3,24,72,7,79
+226,113,"AC Maintenance Service",2,30,60,6,66
+227,114,"Flooring Service",6,24,144,14,158
+228,114,"Gas Service",2,15,30,3,33
+229,115,"Flooring Service",5,22,110,11,121
+230,115,"Electricity Service",5,50,250,25,275
+231,116,"Electricity Service",7,32,224,22,246
+232,116,"Window Cleaning Service",10,17,170,17,187
+233,117,"Window Cleaning Service",8,19,152,15,167
+234,117,"Electricity Service",5,17,85,9,94
+235,118,"Gas Service",8,13,104,10,114
+236,118,"Gas Service",8,48,384,38,422
+237,119,"Window Cleaning Service",1,43,43,4,47
+238,119,"AC Maintenance Service",7,25,175,18,193
+239,120,"Gas Service",4,32,128,13,141
+240,120,"Window Cleaning Service",3,42,126,13,139
+241,121,"Electricity Service",7,11,77,8,85
+242,121,"AC Maintenance Service",6,46,276,28,304
+243,122,"Plumber Service",6,35,210,21,231
+244,122,"Electricity Service",6,20,120,12,132
+245,123,"AC Maintenance Service",2,30,60,6,66
+246,123,"Electricity Service",10,44,440,44,484
+247,124,"AC Maintenance Service",4,30,120,12,132
+248,124,"AC Maintenance Service",8,20,160,16,176
+249,125,"Flooring Service",7,19,133,13,146
+250,125,"Plumber Service",8,14,112,11,123
+251,126,"Flooring Service",2,45,90,9,99
+252,126,"Electricity Service",3,26,78,8,86
+253,127,"Plumber Service",9,26,234,23,257
+254,127,"Plumber Service",3,41,123,12,135
+255,128,"Flooring Service",7,47,329,33,362
+256,128,"Electricity Service",3,19,57,6,63
+257,129,"Plumber Service",5,48,240,24,264
+258,129,"AC Maintenance Service",1,25,25,3,28
+259,130,"Electricity Service",1,30,30,3,33
+260,130,"AC Maintenance Service",1,46,46,5,51
+261,131,"Flooring Service",2,24,48,5,53
+262,131,"Flooring Service",2,29,58,6,64
+263,132,"AC Maintenance Service",6,47,282,28,310
+264,132,"AC Maintenance Service",2,17,34,3,37
+265,133,"Plumber Service",2,40,80,8,88
+266,133,"Electricity Service",10,11,110,11,121
+267,134,"Plumber Service",2,30,60,6,66
+268,134,"Window Cleaning Service",9,21,189,19,208
+269,135,"Gas Service",10,27,270,27,297
+270,135,"AC Maintenance Service",4,40,160,16,176
+271,136,"Gas Service",1,22,22,2,24
+272,136,"AC Maintenance Service",7,18,126,13,139
+273,137,"Gas Service",3,43,129,13,142
+274,137,"AC Maintenance Service",6,19,114,11,125
+275,138,"Window Cleaning Service",8,31,248,25,273
+276,138,"Window Cleaning Service",1,36,36,4,40
+277,139,"Plumber Service",1,11,11,1,12
+278,139,"Gas Service",2,27,54,5,59
+279,140,"Flooring Service",8,25,200,20,220
+280,140,"Plumber Service",2,41,82,8,90
+281,141,"Window Cleaning Service",9,42,378,38,416
+282,141,"Flooring Service",9,36,324,32,356
+283,142,"Flooring Service",10,30,300,30,330
+284,142,"Plumber Service",2,20,40,4,44
+285,143,"Electricity Service",7,27,189,19,208
+286,143,"AC Maintenance Service",4,17,68,7,75
+287,144,"Plumber Service",4,16,64,6,70
+288,144,"Window Cleaning Service",2,36,72,7,79
+289,145,"Window Cleaning Service",7,15,105,11,116
+290,145,"Window Cleaning Service",3,10,30,3,33
+291,146,"Electricity Service",4,32,128,13,141
+292,146,"Plumber Service",4,10,40,4,44
+293,147,"AC Maintenance Service",2,13,26,3,29
+294,147,"AC Maintenance Service",5,46,230,23,253
+295,148,"Flooring Service",8,32,256,26,282
+296,148,"Electricity Service",4,22,88,9,97
+297,149,"Window Cleaning Service",9,38,342,34,376
+298,149,"Window Cleaning Service",6,18,108,11,119
+299,150,"Gas Service",6,49,294,29,323
+300,150,"Electricity Service",5,10,50,5,55
+301,151,"AC Maintenance Service",10,19,190,19,209
+302,151,"Window Cleaning Service",6,24,144,14,158
+303,152,"Plumber Service",6,18,108,11,119
+304,152,"Gas Service",10,14,140,14,154
+305,153,"Plumber Service",7,36,252,25,277
+306,153,"Flooring Service",7,11,77,8,85
+307,154,"Window Cleaning Service",7,34,238,24,262
+308,154,"Window Cleaning Service",6,20,120,12,132
+309,155,"AC Maintenance Service",3,32,96,10,106
+310,155,"Window Cleaning Service",7,17,119,12,131
+311,156,"AC Maintenance Service",9,25,225,23,248
+312,156,"Electricity Service",4,15,60,6,66
+313,157,"Electricity Service",8,33,264,26,290
+314,157,"Window Cleaning Service",4,33,132,13,145
+315,158,"Window Cleaning Service",4,25,100,10,110
+316,158,"Gas Service",5,15,75,8,83
+317,159,"AC Maintenance Service",9,37,333,33,366
+318,159,"Gas Service",4,21,84,8,92
+319,160,"Flooring Service",4,27,108,11,119
+320,160,"Window Cleaning Service",8,14,112,11,123
+321,161,"Gas Service",9,50,450,45,495
+322,161,"Window Cleaning Service",7,16,112,11,123
+323,162,"AC Maintenance Service",1,17,17,2,19
+324,162,"Electricity Service",1,39,39,4,43
+325,163,"Plumber Service",10,33,330,33,363
+326,163,"Gas Service",9,15,135,14,149
+327,164,"Plumber Service",6,39,234,23,257
+328,164,"Electricity Service",7,12,84,8,92
+329,165,"Plumber Service",3,42,126,13,139
+330,165,"Flooring Service",8,19,152,15,167
+331,166,"Flooring Service",10,19,190,19,209
+332,166,"Plumber Service",1,36,36,4,40
+333,167,"Window Cleaning Service",1,15,15,2,17
+334,167,"AC Maintenance Service",1,49,49,5,54
+335,168,"Flooring Service",9,23,207,21,228
+336,168,"AC Maintenance Service",1,10,10,1,11
+337,169,"Flooring Service",2,30,60,6,66
+338,169,"AC Maintenance Service",2,48,96,10,106
+339,170,"Flooring Service",5,23,115,12,127
+340,170,"Flooring Service",9,17,153,15,168
+341,171,"Flooring Service",7,14,98,10,108
+342,171,"Flooring Service",9,18,162,16,178
+343,172,"AC Maintenance Service",8,23,184,18,202
+344,172,"Electricity Service",1,37,37,4,41
+345,173,"Plumber Service",8,16,128,13,141
+346,173,"Gas Service",10,38,380,38,418
+347,174,"AC Maintenance Service",1,19,19,2,21
+348,174,"Flooring Service",4,30,120,12,132
+349,175,"Plumber Service",3,30,90,9,99
+350,175,"Flooring Service",8,47,376,38,414
+351,176,"Electricity Service",6,37,222,22,244
+352,176,"Flooring Service",9,24,216,22,238
+353,177,"Window Cleaning Service",10,20,200,20,220
+354,177,"AC Maintenance Service",5,25,125,13,138
+355,178,"Electricity Service",1,35,35,4,39
+356,178,"Flooring Service",3,30,90,9,99
+357,179,"Electricity Service",8,38,304,30,334
+358,179,"Flooring Service",10,34,340,34,374
+359,180,"Flooring Service",8,50,400,40,440
+360,180,"AC Maintenance Service",5,28,140,14,154
+361,181,"Flooring Service",10,14,140,14,154
+362,181,"Gas Service",6,17,102,10,112
+363,182,"Gas Service",5,43,215,22,237
+364,182,"AC Maintenance Service",9,47,423,42,465
+365,183,"Gas Service",7,45,315,32,347
+366,183,"Flooring Service",7,24,168,17,185
+367,184,"Flooring Service",1,13,13,1,14
+368,184,"Plumber Service",7,15,105,11,116
+369,185,"Electricity Service",10,43,430,43,473
+370,185,"Gas Service",2,14,28,3,31
+371,186,"Flooring Service",7,46,322,32,354
+372,186,"AC Maintenance Service",10,43,430,43,473
+373,187,"Flooring Service",10,39,390,39,429
+374,187,"Plumber Service",5,34,170,17,187
+375,188,"AC Maintenance Service",8,14,112,11,123
+376,188,"AC Maintenance Service",7,41,287,29,316
+377,189,"Plumber Service",3,14,42,4,46
+378,189,"AC Maintenance Service",1,49,49,5,54
+379,190,"Flooring Service",3,24,72,7,79
+380,190,"AC Maintenance Service",2,47,94,9,103
+381,191,"Gas Service",1,29,29,3,32
+382,191,"Window Cleaning Service",6,23,138,14,152
+383,192,"Electricity Service",2,19,38,4,42
+384,192,"Electricity Service",7,40,280,28,308
+385,193,"Window Cleaning Service",10,23,230,23,253
+386,193,"Flooring Service",3,40,120,12,132
+387,194,"AC Maintenance Service",4,10,40,4,44
+388,194,"AC Maintenance Service",3,40,120,12,132
+389,195,"AC Maintenance Service",8,39,312,31,343
+390,195,"Gas Service",9,44,396,40,436
+391,196,"AC Maintenance Service",9,34,306,31,337
+392,196,"Electricity Service",8,31,248,25,273
+393,197,"Electricity Service",6,12,72,7,79
+394,197,"Flooring Service",3,10,30,3,33
+395,198,"Window Cleaning Service",9,18,162,16,178
+396,198,"Plumber Service",10,13,130,13,143
+397,199,"Plumber Service",6,41,246,25,271
+398,199,"Electricity Service",8,18,144,14,158
+399,200,"Flooring Service",8,37,296,30,326
+400,200,"Gas Service",10,25,250,25,275
+401,201,"Electricity Service",1,28,28,3,31
+402,201,"Gas Service",8,32,256,26,282
+403,202,"AC Maintenance Service",3,29,87,9,96
+404,202,"Electricity Service",10,44,440,44,484
+405,203,"Electricity Service",1,31,31,3,34
+406,203,"Electricity Service",5,16,80,8,88
+407,204,"Electricity Service",3,37,111,11,122
+408,204,"Plumber Service",9,40,360,36,396
+409,205,"Plumber Service",4,24,96,10,106
+410,205,"Window Cleaning Service",9,48,432,43,475
+411,206,"Electricity Service",3,32,96,10,106
+412,206,"Window Cleaning Service",2,41,82,8,90
+413,207,"Window Cleaning Service",2,14,28,3,31
+414,207,"Gas Service",1,28,28,3,31
+415,208,"Plumber Service",1,30,30,3,33
+416,208,"Gas Service",4,13,52,5,57
+417,209,"Electricity Service",4,16,64,6,70
+418,209,"Flooring Service",6,30,180,18,198
+419,210,"Flooring Service",6,50,300,30,330
+420,210,"Plumber Service",4,16,64,6,70
+421,211,"Gas Service",7,23,161,16,177
+422,211,"Flooring Service",9,36,324,32,356
+423,212,"Flooring Service",5,35,175,18,193
+424,212,"Electricity Service",9,10,90,9,99
+425,213,"Plumber Service",5,14,70,7,77
+426,213,"Electricity Service",6,28,168,17,185
+427,214,"Flooring Service",6,18,108,11,119
+428,214,"Plumber Service",5,10,50,5,55
+429,215,"Flooring Service",2,31,62,6,68
+430,215,"Plumber Service",5,43,215,22,237
+431,216,"AC Maintenance Service",3,45,135,14,149
+432,216,"Gas Service",4,18,72,7,79
+433,217,"AC Maintenance Service",6,43,258,26,284
+434,217,"Gas Service",8,23,184,18,202
+435,218,"Window Cleaning Service",3,12,36,4,40
+436,218,"Gas Service",7,30,210,21,231
+437,219,"Flooring Service",7,48,336,34,370
+438,219,"Gas Service",2,20,40,4,44
+439,220,"Gas Service",7,33,231,23,254
+440,220,"Gas Service",5,41,205,21,226
+441,221,"Plumber Service",8,44,352,35,387
+442,221,"AC Maintenance Service",6,34,204,20,224
+443,222,"Plumber Service",6,30,180,18,198
+444,222,"Window Cleaning Service",4,20,80,8,88
+445,223,"Flooring Service",8,39,312,31,343
+446,223,"Electricity Service",3,39,117,12,129
+447,224,"Plumber Service",2,41,82,8,90
+448,224,"Gas Service",6,48,288,29,317
+449,225,"Plumber Service",4,38,152,15,167
+450,225,"Plumber Service",3,23,69,7,76
+451,226,"AC Maintenance Service",4,12,48,5,53
+452,226,"Plumber Service",9,40,360,36,396
+453,227,"AC Maintenance Service",8,34,272,27,299
+454,227,"Electricity Service",3,48,144,14,158
+455,228,"Gas Service",6,34,204,20,224
+456,228,"Flooring Service",9,47,423,42,465
+457,229,"Gas Service",3,17,51,5,56
+458,229,"Window Cleaning Service",2,34,68,7,75
+459,230,"Window Cleaning Service",8,45,360,36,396
+460,230,"AC Maintenance Service",3,42,126,13,139
+461,231,"AC Maintenance Service",5,32,160,16,176
+462,231,"AC Maintenance Service",5,15,75,8,83
+463,232,"Flooring Service",10,11,110,11,121
+464,232,"Flooring Service",5,19,95,10,105
+465,233,"Plumber Service",4,43,172,17,189
+466,233,"AC Maintenance Service",8,19,152,15,167
+467,234,"Flooring Service",1,34,34,3,37
+468,234,"Gas Service",8,16,128,13,141
+469,235,"Flooring Service",10,21,210,21,231
+470,235,"Flooring Service",10,28,280,28,308
+471,236,"Flooring Service",9,33,297,30,327
+472,236,"Gas Service",6,18,108,11,119
+473,237,"AC Maintenance Service",2,20,40,4,44
+474,237,"Flooring Service",5,21,105,11,116
+475,238,"Flooring Service",2,12,24,2,26
+476,238,"Plumber Service",10,35,350,35,385
+477,239,"Plumber Service",2,26,52,5,57
+478,239,"Window Cleaning Service",9,36,324,32,356
+479,240,"AC Maintenance Service",9,15,135,14,149
+480,240,"Plumber Service",10,32,320,32,352
+481,241,"Window Cleaning Service",1,27,27,3,30
+482,241,"Gas Service",4,16,64,6,70
+483,242,"Plumber Service",2,13,26,3,29
+484,242,"AC Maintenance Service",7,10,70,7,77
+485,243,"Gas Service",6,49,294,29,323
+486,243,"Flooring Service",4,42,168,17,185
+487,244,"Window Cleaning Service",5,40,200,20,220
+488,244,"Window Cleaning Service",1,46,46,5,51
+489,245,"AC Maintenance Service",8,16,128,13,141
+490,245,"Electricity Service",1,24,24,2,26
+491,246,"Gas Service",5,40,200,20,220
+492,246,"Flooring Service",8,24,192,19,211
+493,247,"Gas Service",3,31,93,9,102
+494,247,"AC Maintenance Service",6,49,294,29,323
+495,248,"Gas Service",1,38,38,4,42
+496,248,"Gas Service",10,35,350,35,385
+497,249,"Electricity Service",8,39,312,31,343
+498,249,"Flooring Service",4,15,60,6,66
+499,250,"Gas Service",5,34,170,17,187
+500,250,"Electricity Service",8,24,192,19,211
+501,251,"AC Maintenance Service",2,48,96,10,106
+502,251,"Plumber Service",8,28,224,22,246
+503,252,"Flooring Service",5,24,120,12,132
+504,252,"Flooring Service",10,18,180,18,198
+505,253,"Window Cleaning Service",5,40,200,20,220
+506,253,"Flooring Service",5,50,250,25,275
+507,254,"Electricity Service",5,50,250,25,275
+508,254,"Flooring Service",5,45,225,23,248
+509,255,"Plumber Service",5,41,205,21,226
+510,255,"Flooring Service",9,37,333,33,366
+511,256,"Window Cleaning Service",6,14,84,8,92
+512,256,"Window Cleaning Service",2,28,56,6,62
+513,257,"AC Maintenance Service",4,15,60,6,66
+514,257,"Window Cleaning Service",4,45,180,18,198
+515,258,"Window Cleaning Service",8,16,128,13,141
+516,258,"Flooring Service",7,21,147,15,162
+517,259,"Flooring Service",2,29,58,6,64
+518,259,"Window Cleaning Service",1,42,42,4,46
+519,260,"Plumber Service",8,45,360,36,396
+520,260,"Electricity Service",1,42,42,4,46
+521,261,"Window Cleaning Service",5,36,180,18,198
+522,261,"Window Cleaning Service",10,41,410,41,451
+523,262,"Plumber Service",10,11,110,11,121
+524,262,"Gas Service",4,26,104,10,114
+525,263,"Flooring Service",6,14,84,8,92
+526,263,"Electricity Service",10,23,230,23,253
+527,264,"Flooring Service",5,14,70,7,77
+528,264,"Plumber Service",3,17,51,5,56
+529,265,"Window Cleaning Service",9,31,279,28,307
+530,265,"Window Cleaning Service",1,50,50,5,55
+531,266,"Flooring Service",1,21,21,2,23
+532,266,"AC Maintenance Service",9,44,396,40,436
+533,267,"Flooring Service",8,27,216,22,238
+534,267,"Electricity Service",4,25,100,10,110
+535,268,"AC Maintenance Service",9,13,117,12,129
+536,268,"Plumber Service",7,49,343,34,377
+537,269,"Window Cleaning Service",10,46,460,46,506
+538,269,"Gas Service",4,26,104,10,114
+539,270,"AC Maintenance Service",3,33,99,10,109
+540,270,"AC Maintenance Service",8,20,160,16,176
+541,271,"Window Cleaning Service",7,31,217,22,239
+542,271,"AC Maintenance Service",4,31,124,12,136
+543,272,"Plumber Service",10,18,180,18,198
+544,272,"Gas Service",10,36,360,36,396
+545,273,"Flooring Service",6,26,156,16,172
+546,273,"AC Maintenance Service",4,14,56,6,62
+547,274,"Gas Service",8,49,392,39,431
+548,274,"Gas Service",2,12,24,2,26
+549,275,"AC Maintenance Service",5,38,190,19,209
+550,275,"Gas Service",4,10,40,4,44
+551,276,"Electricity Service",3,31,93,9,102
+552,276,"Plumber Service",4,17,68,7,75
+553,277,"Window Cleaning Service",6,41,246,25,271
+554,277,"AC Maintenance Service",4,45,180,18,198
+555,278,"Flooring Service",2,46,92,9,101
+556,278,"Plumber Service",10,39,390,39,429
+557,279,"Window Cleaning Service",7,27,189,19,208
+558,279,"Plumber Service",1,48,48,5,53
+559,280,"Gas Service",8,13,104,10,114
+560,280,"Flooring Service",1,24,24,2,26
+561,281,"Window Cleaning Service",2,26,52,5,57
+562,281,"Gas Service",1,15,15,2,17
+563,282,"Plumber Service",8,30,240,24,264
+564,282,"Flooring Service",6,17,102,10,112
+565,283,"Window Cleaning Service",1,19,19,2,21
+566,283,"Electricity Service",5,13,65,7,72
+567,284,"Gas Service",4,17,68,7,75
+568,284,"Gas Service",5,36,180,18,198
+569,285,"Window Cleaning Service",2,11,22,2,24
+570,285,"Plumber Service",9,49,441,44,485
+571,286,"Electricity Service",3,44,132,13,145
+572,286,"Gas Service",4,37,148,15,163
+573,287,"Flooring Service",1,19,19,2,21
+574,287,"Electricity Service",2,48,96,10,106
+575,288,"Gas Service",8,19,152,15,167
+576,288,"Flooring Service",3,18,54,5,59
+577,289,"Window Cleaning Service",9,31,279,28,307
+578,289,"Window Cleaning Service",4,24,96,10,106
+579,290,"Window Cleaning Service",6,39,234,23,257
+580,290,"Window Cleaning Service",3,18,54,5,59
+581,291,"Gas Service",4,26,104,10,114
+582,291,"Window Cleaning Service",1,21,21,2,23
+583,292,"Window Cleaning Service",8,46,368,37,405
+584,292,"Gas Service",7,46,322,32,354
+585,293,"AC Maintenance Service",2,50,100,10,110
+586,293,"Window Cleaning Service",5,35,175,18,193
+587,294,"Plumber Service",3,22,66,7,73
+588,294,"Window Cleaning Service",8,42,336,34,370
+589,295,"Flooring Service",2,49,98,10,108
+590,295,"Electricity Service",5,29,145,15,160
+591,296,"Window Cleaning Service",8,16,128,13,141
+592,296,"AC Maintenance Service",3,29,87,9,96
+593,297,"Window Cleaning Service",5,45,225,23,248
+594,297,"Gas Service",3,26,78,8,86
+595,298,"AC Maintenance Service",8,25,200,20,220
+596,298,"Window Cleaning Service",8,27,216,22,238
+597,299,"Gas Service",3,22,66,7,73
+598,299,"AC Maintenance Service",6,49,294,29,323
+599,300,"Flooring Service",3,40,120,12,132
+600,300,"AC Maintenance Service",9,43,387,39,426
+601,301,"Gas Service",10,49,490,49,539
+602,301,"Flooring Service",7,11,77,8,85
+603,302,"Flooring Service",3,27,81,8,89
+604,302,"Flooring Service",10,24,240,24,264
+605,303,"Gas Service",7,47,329,33,362
+606,303,"AC Maintenance Service",7,20,140,14,154
+607,304,"Gas Service",5,35,175,18,193
+608,304,"Flooring Service",9,37,333,33,366
+609,305,"AC Maintenance Service",5,31,155,16,171
+610,305,"Window Cleaning Service",10,45,450,45,495
+611,306,"Gas Service",7,30,210,21,231
+612,306,"Gas Service",1,23,23,2,25
+613,307,"Flooring Service",1,36,36,4,40
+614,307,"Gas Service",5,44,220,22,242
+615,308,"AC Maintenance Service",3,43,129,13,142
+616,308,"Flooring Service",8,37,296,30,326
+617,309,"Gas Service",6,13,78,8,86
+618,309,"AC Maintenance Service",2,28,56,6,62
+619,310,"Window Cleaning Service",6,13,78,8,86
+620,310,"AC Maintenance Service",8,46,368,37,405
+621,311,"Flooring Service",1,47,47,5,52
+622,311,"Gas Service",9,34,306,31,337
+623,312,"Flooring Service",5,28,140,14,154
+624,312,"Window Cleaning Service",7,30,210,21,231
+625,313,"Window Cleaning Service",5,33,165,17,182
+626,313,"Window Cleaning Service",7,31,217,22,239
+627,314,"Window Cleaning Service",5,43,215,22,237
+628,314,"Electricity Service",1,34,34,3,37
+629,315,"Window Cleaning Service",5,39,195,20,215
+630,315,"Electricity Service",6,50,300,30,330
+631,316,"AC Maintenance Service",10,10,100,10,110
+632,316,"Electricity Service",2,42,84,8,92
+633,317,"Electricity Service",9,38,342,34,376
+634,317,"Gas Service",6,34,204,20,224
+635,318,"Plumber Service",5,16,80,8,88
+636,318,"AC Maintenance Service",1,49,49,5,54
+637,319,"Flooring Service",3,18,54,5,59
+638,319,"Plumber Service",4,33,132,13,145
+639,320,"AC Maintenance Service",7,49,343,34,377
+640,320,"Gas Service",9,33,297,30,327
+641,321,"Window Cleaning Service",2,35,70,7,77
+642,321,"Gas Service",1,13,13,1,14
+643,322,"Plumber Service",1,37,37,4,41
+644,322,"Plumber Service",6,43,258,26,284
+645,323,"Flooring Service",6,16,96,10,106
+646,323,"AC Maintenance Service",5,31,155,16,171
+647,324,"Plumber Service",7,47,329,33,362
+648,324,"Gas Service",5,39,195,20,215
+649,325,"Flooring Service",6,39,234,23,257
+650,325,"Electricity Service",8,17,136,14,150
+651,326,"Plumber Service",6,14,84,8,92
+652,326,"Flooring Service",10,32,320,32,352
+653,327,"Window Cleaning Service",9,28,252,25,277
+654,327,"Plumber Service",10,29,290,29,319
+655,328,"Gas Service",4,13,52,5,57
+656,328,"Electricity Service",7,46,322,32,354
+657,329,"Electricity Service",9,14,126,13,139
+658,329,"Gas Service",1,41,41,4,45
+659,330,"Window Cleaning Service",5,12,60,6,66
+660,330,"Electricity Service",9,20,180,18,198
+661,331,"Window Cleaning Service",6,26,156,16,172
+662,331,"Window Cleaning Service",5,26,130,13,143
+663,332,"Gas Service",1,20,20,2,22
+664,332,"Window Cleaning Service",2,19,38,4,42
+665,333,"AC Maintenance Service",4,49,196,20,216
+666,333,"Plumber Service",10,35,350,35,385
+667,334,"Gas Service",9,32,288,29,317
+668,334,"AC Maintenance Service",4,26,104,10,114
+669,335,"Plumber Service",8,46,368,37,405
+670,335,"Flooring Service",1,19,19,2,21
+671,336,"Electricity Service",7,21,147,15,162
+672,336,"Window Cleaning Service",9,22,198,20,218
+673,337,"Electricity Service",1,29,29,3,32
+674,337,"Electricity Service",7,45,315,32,347
+675,338,"Window Cleaning Service",8,30,240,24,264
+676,338,"Window Cleaning Service",10,27,270,27,297
+677,339,"Electricity Service",10,25,250,25,275
+678,339,"Window Cleaning Service",10,15,150,15,165
+679,340,"Plumber Service",2,42,84,8,92
+680,340,"Electricity Service",1,26,26,3,29
+681,341,"Window Cleaning Service",1,43,43,4,47
+682,341,"Flooring Service",3,48,144,14,158
+683,342,"Electricity Service",7,14,98,10,108
+684,342,"Window Cleaning Service",6,36,216,22,238
+685,343,"Window Cleaning Service",9,27,243,24,267
+686,343,"Flooring Service",4,34,136,14,150
+687,344,"AC Maintenance Service",5,33,165,17,182
+688,344,"Electricity Service",10,50,500,50,550
+689,345,"Flooring Service",10,35,350,35,385
+690,345,"Window Cleaning Service",3,27,81,8,89
+691,346,"Electricity Service",9,20,180,18,198
+692,346,"Flooring Service",10,18,180,18,198
+693,347,"AC Maintenance Service",5,46,230,23,253
+694,347,"Window Cleaning Service",4,47,188,19,207
+695,348,"Plumber Service",7,13,91,9,100
+696,348,"Electricity Service",10,10,100,10,110
+697,349,"Flooring Service",2,44,88,9,97
+698,349,"Flooring Service",2,44,88,9,97
+699,350,"Flooring Service",1,48,48,5,53
+700,350,"Flooring Service",10,39,390,39,429
+701,351,"Electricity Service",10,28,280,28,308
+702,351,"Flooring Service",6,19,114,11,125
+703,352,"Gas Service",2,45,90,9,99
+704,352,"AC Maintenance Service",3,45,135,14,149
+705,353,"Window Cleaning Service",9,26,234,23,257
+706,353,"Window Cleaning Service",10,49,490,49,539
+707,354,"Gas Service",8,37,296,30,326
+708,354,"Electricity Service",10,33,330,33,363
+709,355,"AC Maintenance Service",4,16,64,6,70
+710,355,"Electricity Service",8,17,136,14,150
+711,356,"AC Maintenance Service",8,38,304,30,334
+712,356,"AC Maintenance Service",5,47,235,24,259
+713,357,"Window Cleaning Service",10,34,340,34,374
+714,357,"Flooring Service",4,21,84,8,92
+715,358,"Gas Service",3,45,135,14,149
+716,358,"Flooring Service",4,22,88,9,97
+717,359,"Gas Service",9,32,288,29,317
+718,359,"AC Maintenance Service",1,43,43,4,47
+719,360,"Electricity Service",1,26,26,3,29
+720,360,"Gas Service",1,18,18,2,20
+721,361,"Electricity Service",1,15,15,2,17
+722,361,"Gas Service",8,21,168,17,185
+723,362,"Window Cleaning Service",10,14,140,14,154
+724,362,"Electricity Service",5,12,60,6,66
+725,363,"AC Maintenance Service",7,31,217,22,239
+726,363,"Gas Service",9,44,396,40,436
+727,364,"Plumber Service",8,13,104,10,114
+728,364,"Gas Service",7,47,329,33,362
+729,365,"Gas Service",5,27,135,14,149
+730,365,"Plumber Service",1,41,41,4,45
+731,366,"Window Cleaning Service",5,17,85,9,94
+732,366,"Flooring Service",9,45,405,41,446
+733,367,"Window Cleaning Service",9,49,441,44,485
+734,367,"Plumber Service",7,35,245,25,270
+735,368,"Plumber Service",3,19,57,6,63
+736,368,"Gas Service",6,21,126,13,139
+737,369,"AC Maintenance Service",9,13,117,12,129
+738,369,"Plumber Service",5,32,160,16,176
+739,370,"Flooring Service",6,49,294,29,323
+740,370,"Plumber Service",5,33,165,17,182
+741,371,"Electricity Service",7,22,154,15,169
+742,371,"Plumber Service",6,18,108,11,119
+743,372,"Window Cleaning Service",1,24,24,2,26
+744,372,"Window Cleaning Service",3,27,81,8,89
+745,373,"Window Cleaning Service",7,27,189,19,208
+746,373,"Window Cleaning Service",3,16,48,5,53
+747,374,"Flooring Service",3,14,42,4,46
+748,374,"AC Maintenance Service",10,23,230,23,253
+749,375,"Electricity Service",2,28,56,6,62
+750,375,"Gas Service",6,45,270,27,297
+751,376,"Plumber Service",7,37,259,26,285
+752,376,"AC Maintenance Service",9,22,198,20,218
+753,377,"AC Maintenance Service",10,24,240,24,264
+754,377,"Flooring Service",6,15,90,9,99
+755,378,"Plumber Service",8,27,216,22,238
+756,378,"Gas Service",3,47,141,14,155
+757,379,"Electricity Service",10,13,130,13,143
+758,379,"Gas Service",2,40,80,8,88
+759,380,"Window Cleaning Service",3,39,117,12,129
+760,380,"AC Maintenance Service",6,20,120,12,132
+761,381,"Electricity Service",9,48,432,43,475
+762,381,"Electricity Service",8,36,288,29,317
+763,382,"AC Maintenance Service",10,23,230,23,253
+764,382,"Flooring Service",4,45,180,18,198
+765,383,"Electricity Service",1,27,27,3,30
+766,383,"Flooring Service",8,28,224,22,246
+767,384,"Gas Service",8,13,104,10,114
+768,384,"Plumber Service",8,47,376,38,414
+769,385,"Window Cleaning Service",7,24,168,17,185
+770,385,"Window Cleaning Service",3,38,114,11,125
+771,386,"Electricity Service",4,21,84,8,92
+772,386,"Plumber Service",4,15,60,6,66
+773,387,"Electricity Service",8,25,200,20,220
+774,387,"Flooring Service",4,46,184,18,202
+775,388,"Electricity Service",1,18,18,2,20
+776,388,"Window Cleaning Service",4,39,156,16,172
+777,389,"Window Cleaning Service",9,34,306,31,337
+778,389,"Electricity Service",10,12,120,12,132
+779,390,"Window Cleaning Service",6,14,84,8,92
+780,390,"Flooring Service",9,38,342,34,376
+781,391,"AC Maintenance Service",4,19,76,8,84
+782,391,"Electricity Service",5,23,115,12,127
+783,392,"Gas Service",8,48,384,38,422
+784,392,"AC Maintenance Service",6,20,120,12,132
+785,393,"Plumber Service",3,29,87,9,96
+786,393,"AC Maintenance Service",8,47,376,38,414
+787,394,"Electricity Service",1,45,45,5,50
+788,394,"AC Maintenance Service",2,45,90,9,99
+789,395,"Electricity Service",3,12,36,4,40
+790,395,"Plumber Service",8,21,168,17,185
+791,396,"Plumber Service",8,30,240,24,264
+792,396,"Plumber Service",6,47,282,28,310
+793,397,"AC Maintenance Service",6,49,294,29,323
+794,397,"Window Cleaning Service",2,39,78,8,86
+795,398,"Plumber Service",7,14,98,10,108
+796,398,"Electricity Service",8,50,400,40,440
+797,399,"Flooring Service",1,48,48,5,53
+798,399,"Plumber Service",10,40,400,40,440
+799,400,"Gas Service",9,37,333,33,366
+800,400,"Flooring Service",5,39,195,20,215
+801,401,"Plumber Service",2,26,52,5,57
+802,401,"Plumber Service",4,16,64,6,70
+803,402,"Flooring Service",8,29,232,23,255
+804,402,"Window Cleaning Service",4,35,140,14,154
+805,403,"AC Maintenance Service",1,48,48,5,53
+806,403,"AC Maintenance Service",10,45,450,45,495
+807,404,"Plumber Service",7,23,161,16,177
+808,404,"Flooring Service",8,26,208,21,229
+809,405,"Electricity Service",8,42,336,34,370
+810,405,"Plumber Service",10,44,440,44,484
+811,406,"Flooring Service",9,18,162,16,178
+812,406,"Electricity Service",6,43,258,26,284
+813,407,"Plumber Service",2,17,34,3,37
+814,407,"Plumber Service",1,49,49,5,54
+815,408,"AC Maintenance Service",7,25,175,18,193
+816,408,"Electricity Service",4,12,48,5,53
+817,409,"AC Maintenance Service",2,32,64,6,70
+818,409,"Window Cleaning Service",4,26,104,10,114
+819,410,"Gas Service",10,31,310,31,341
+820,410,"Window Cleaning Service",8,16,128,13,141
+821,411,"AC Maintenance Service",6,35,210,21,231
+822,411,"Plumber Service",3,21,63,6,69
+823,412,"Flooring Service",10,27,270,27,297
+824,412,"Plumber Service",2,14,28,3,31
+825,413,"Plumber Service",8,17,136,14,150
+826,413,"Gas Service",9,42,378,38,416
+827,414,"AC Maintenance Service",10,22,220,22,242
+828,414,"AC Maintenance Service",1,33,33,3,36
+829,415,"Flooring Service",6,19,114,11,125
+830,415,"Plumber Service",9,23,207,21,228
+831,416,"AC Maintenance Service",2,23,46,5,51
+832,416,"Window Cleaning Service",3,21,63,6,69
+833,417,"Electricity Service",8,24,192,19,211
+834,417,"Gas Service",4,30,120,12,132
+835,418,"Electricity Service",10,45,450,45,495
+836,418,"AC Maintenance Service",2,24,48,5,53
+837,419,"Flooring Service",1,50,50,5,55
+838,419,"Flooring Service",2,49,98,10,108
+839,420,"AC Maintenance Service",3,20,60,6,66
+840,420,"Window Cleaning Service",6,17,102,10,112
+841,421,"Electricity Service",2,27,54,5,59
+842,421,"Gas Service",7,11,77,8,85
+843,422,"Electricity Service",7,30,210,21,231
+844,422,"Plumber Service",3,25,75,8,83
+845,423,"Gas Service",9,34,306,31,337
+846,423,"Flooring Service",5,28,140,14,154
+847,424,"Gas Service",9,20,180,18,198
+848,424,"AC Maintenance Service",2,45,90,9,99
+849,425,"Plumber Service",10,21,210,21,231
+850,425,"Electricity Service",3,20,60,6,66
+851,426,"Electricity Service",7,49,343,34,377
+852,426,"Window Cleaning Service",9,11,99,10,109
+853,427,"Window Cleaning Service",8,39,312,31,343
+854,427,"Window Cleaning Service",9,48,432,43,475
+855,428,"Flooring Service",10,20,200,20,220
+856,428,"Plumber Service",8,30,240,24,264
+857,429,"Window Cleaning Service",2,49,98,10,108
+858,429,"AC Maintenance Service",2,34,68,7,75
+859,430,"Electricity Service",6,48,288,29,317
+860,430,"Flooring Service",8,28,224,22,246
+861,431,"Electricity Service",7,47,329,33,362
+862,431,"Window Cleaning Service",5,14,70,7,77
+863,432,"AC Maintenance Service",8,27,216,22,238
+864,432,"Window Cleaning Service",1,45,45,5,50
+865,433,"Window Cleaning Service",10,35,350,35,385
+866,433,"Flooring Service",5,46,230,23,253
+867,434,"Electricity Service",4,22,88,9,97
+868,434,"Plumber Service",9,45,405,41,446
+869,435,"Plumber Service",8,26,208,21,229
+870,435,"AC Maintenance Service",6,33,198,20,218
+871,436,"Gas Service",2,15,30,3,33
+872,436,"Flooring Service",3,44,132,13,145
+873,437,"AC Maintenance Service",8,11,88,9,97
+874,437,"Window Cleaning Service",5,41,205,21,226
+875,438,"Plumber Service",5,28,140,14,154
+876,438,"Gas Service",1,20,20,2,22
+877,439,"Window Cleaning Service",6,38,228,23,251
+878,439,"AC Maintenance Service",5,29,145,15,160
+879,440,"Flooring Service",2,48,96,10,106
+880,440,"Gas Service",10,25,250,25,275
+881,441,"Window Cleaning Service",1,17,17,2,19
+882,441,"AC Maintenance Service",8,14,112,11,123
+883,442,"Flooring Service",3,45,135,14,149
+884,442,"Window Cleaning Service",10,22,220,22,242
+885,443,"Flooring Service",9,40,360,36,396
+886,443,"Plumber Service",4,48,192,19,211
+887,444,"AC Maintenance Service",9,26,234,23,257
+888,444,"Gas Service",1,33,33,3,36
+889,445,"Plumber Service",9,10,90,9,99
+890,445,"Window Cleaning Service",5,42,210,21,231
+891,446,"Flooring Service",4,33,132,13,145
+892,446,"Gas Service",8,40,320,32,352
+893,447,"Gas Service",8,16,128,13,141
+894,447,"Plumber Service",5,10,50,5,55
+895,448,"Window Cleaning Service",7,18,126,13,139
+896,448,"Electricity Service",8,16,128,13,141
+897,449,"Gas Service",8,31,248,25,273
+898,449,"Electricity Service",4,31,124,12,136
+899,450,"AC Maintenance Service",7,37,259,26,285
+900,450,"Plumber Service",7,46,322,32,354
+901,451,"AC Maintenance Service",6,16,96,10,106
+902,451,"Gas Service",2,40,80,8,88
+903,452,"Plumber Service",2,21,42,4,46
+904,452,"Gas Service",7,50,350,35,385
+905,453,"Plumber Service",7,27,189,19,208
+906,453,"Electricity Service",8,24,192,19,211
+907,454,"Plumber Service",1,45,45,5,50
+908,454,"Window Cleaning Service",5,26,130,13,143
+909,455,"AC Maintenance Service",8,24,192,19,211
+910,455,"Window Cleaning Service",2,43,86,9,95
+911,456,"Window Cleaning Service",7,10,70,7,77
+912,456,"Flooring Service",10,15,150,15,165
+913,457,"Plumber Service",1,25,25,3,28
+914,457,"Plumber Service",3,22,66,7,73
+915,458,"AC Maintenance Service",6,33,198,20,218
+916,458,"AC Maintenance Service",6,46,276,28,304
+917,459,"AC Maintenance Service",8,24,192,19,211
+918,459,"Window Cleaning Service",2,48,96,10,106
+919,460,"Plumber Service",1,30,30,3,33
+920,460,"AC Maintenance Service",10,16,160,16,176
+921,461,"Gas Service",8,10,80,8,88
+922,461,"Electricity Service",3,33,99,10,109
+923,462,"Flooring Service",7,19,133,13,146
+924,462,"Flooring Service",3,50,150,15,165
+925,463,"AC Maintenance Service",3,42,126,13,139
+926,463,"Electricity Service",7,41,287,29,316
+927,464,"AC Maintenance Service",3,32,96,10,106
+928,464,"Electricity Service",5,36,180,18,198
+929,465,"AC Maintenance Service",5,17,85,9,94
+930,465,"Window Cleaning Service",10,14,140,14,154
+931,466,"Electricity Service",9,50,450,45,495
+932,466,"AC Maintenance Service",8,40,320,32,352
+933,467,"Flooring Service",4,40,160,16,176
+934,467,"Gas Service",1,27,27,3,30
+935,468,"Window Cleaning Service",7,39,273,27,300
+936,468,"AC Maintenance Service",1,10,10,1,11
+937,469,"Window Cleaning Service",5,47,235,24,259
+938,469,"Flooring Service",9,42,378,38,416
+939,470,"Gas Service",9,31,279,28,307
+940,470,"Flooring Service",6,17,102,10,112
+941,471,"Plumber Service",5,45,225,23,248
+942,471,"AC Maintenance Service",10,10,100,10,110
+943,472,"Electricity Service",9,11,99,10,109
+944,472,"Gas Service",3,13,39,4,43
+945,473,"Gas Service",2,39,78,8,86
+946,473,"Electricity Service",3,45,135,14,149
+947,474,"Plumber Service",8,41,328,33,361
+948,474,"Electricity Service",2,45,90,9,99
+949,475,"Flooring Service",7,31,217,22,239
+950,475,"Plumber Service",5,32,160,16,176
+951,476,"Electricity Service",1,39,39,4,43
+952,476,"Plumber Service",5,21,105,11,116
+953,477,"Window Cleaning Service",4,43,172,17,189
+954,477,"Window Cleaning Service",1,46,46,5,51
+955,478,"Window Cleaning Service",9,14,126,13,139
+956,478,"AC Maintenance Service",3,44,132,13,145
+957,479,"Flooring Service",4,45,180,18,198
+958,479,"Plumber Service",4,26,104,10,114
+959,480,"AC Maintenance Service",5,37,185,19,204
+960,480,"Window Cleaning Service",10,20,200,20,220
+961,481,"AC Maintenance Service",1,20,20,2,22
+962,481,"Electricity Service",5,15,75,8,83
+963,482,"Flooring Service",3,21,63,6,69
+964,482,"Gas Service",7,24,168,17,185
+965,483,"Electricity Service",8,47,376,38,414
+966,483,"Gas Service",7,46,322,32,354
+967,484,"Electricity Service",1,38,38,4,42
+968,484,"Gas Service",2,35,70,7,77
+969,485,"Flooring Service",10,24,240,24,264
+970,485,"Electricity Service",5,43,215,22,237
+971,486,"Gas Service",3,50,150,15,165
+972,486,"Electricity Service",8,47,376,38,414
+973,487,"Electricity Service",8,50,400,40,440
+974,487,"Flooring Service",2,11,22,2,24
+975,488,"Flooring Service",4,42,168,17,185
+976,488,"Electricity Service",3,35,105,11,116
+977,489,"Gas Service",3,42,126,13,139
+978,489,"Flooring Service",6,24,144,14,158
+979,490,"Gas Service",5,10,50,5,55
+980,490,"Electricity Service",1,50,50,5,55
+981,491,"Gas Service",7,17,119,12,131
+982,491,"AC Maintenance Service",5,17,85,9,94
+983,492,"Flooring Service",9,46,414,41,455
+984,492,"Flooring Service",10,33,330,33,363
+985,493,"AC Maintenance Service",3,16,48,5,53
+986,493,"Flooring Service",6,29,174,17,191
+987,494,"Electricity Service",4,22,88,9,97
+988,494,"Window Cleaning Service",3,32,96,10,106
+989,495,"Window Cleaning Service",10,46,460,46,506
+990,495,"Window Cleaning Service",7,31,217,22,239
+991,496,"AC Maintenance Service",10,16,160,16,176
+992,496,"AC Maintenance Service",4,24,96,10,106
+993,497,"Plumber Service",2,43,86,9,95
+994,497,"Window Cleaning Service",7,46,322,32,354
+995,498,"Gas Service",7,32,224,22,246
+996,498,"Plumber Service",5,44,220,22,242
+997,499,"AC Maintenance Service",4,12,48,5,53
+998,499,"Gas Service",9,21,189,19,208
+999,500,"Window Cleaning Service",10,16,160,16,176
+1000,500,"Window Cleaning Service",7,28,196,20,216
+1001,501,"AC Maintenance Service",2,48,96,10,106
+1002,501,"Window Cleaning Service",10,16,160,16,176
+1003,502,"Plumber Service",9,46,414,41,455
+1004,502,"Plumber Service",3,50,150,15,165
+1005,503,"Electricity Service",3,11,33,3,36
+1006,503,"Window Cleaning Service",4,43,172,17,189
+1007,504,"AC Maintenance Service",3,48,144,14,158
+1008,504,"Gas Service",8,35,280,28,308
+1009,505,"Flooring Service",1,39,39,4,43
+1010,505,"Gas Service",7,35,245,25,270
+1011,506,"AC Maintenance Service",1,18,18,2,20
+1012,506,"Window Cleaning Service",5,14,70,7,77
+1013,507,"Electricity Service",1,33,33,3,36
+1014,507,"Plumber Service",9,25,225,23,248
+1015,508,"Window Cleaning Service",7,47,329,33,362
+1016,508,"Gas Service",1,32,32,3,35
+1017,509,"AC Maintenance Service",1,16,16,2,18
+1018,509,"Flooring Service",7,33,231,23,254
+1019,510,"Electricity Service",6,18,108,11,119
+1020,510,"AC Maintenance Service",9,46,414,41,455
+1021,511,"AC Maintenance Service",7,22,154,15,169
+1022,511,"Flooring Service",7,39,273,27,300
+1023,512,"Plumber Service",3,11,33,3,36
+1024,512,"Electricity Service",3,47,141,14,155
+1025,513,"Electricity Service",1,18,18,2,20
+1026,513,"Window Cleaning Service",4,29,116,12,128
+1027,514,"Plumber Service",7,17,119,12,131
+1028,514,"Plumber Service",7,29,203,20,223
+1029,515,"Electricity Service",9,34,306,31,337
+1030,515,"AC Maintenance Service",9,44,396,40,436
+1031,516,"Electricity Service",4,11,44,4,48
+1032,516,"Electricity Service",7,36,252,25,277
+1033,517,"Window Cleaning Service",9,41,369,37,406
+1034,517,"Electricity Service",10,24,240,24,264
+1035,518,"Window Cleaning Service",4,50,200,20,220
+1036,518,"Flooring Service",1,26,26,3,29
+1037,519,"Gas Service",8,20,160,16,176
+1038,519,"AC Maintenance Service",1,12,12,1,13
+1039,520,"AC Maintenance Service",2,34,68,7,75
+1040,520,"Electricity Service",2,24,48,5,53
+1041,521,"Electricity Service",9,39,351,35,386
+1042,521,"Plumber Service",8,33,264,26,290
+1043,522,"Gas Service",1,48,48,5,53
+1044,522,"Window Cleaning Service",2,30,60,6,66
+1045,523,"Gas Service",8,37,296,30,326
+1046,523,"Plumber Service",7,29,203,20,223
+1047,524,"Electricity Service",10,41,410,41,451
+1048,524,"Flooring Service",10,29,290,29,319
+1049,525,"Gas Service",7,10,70,7,77
+1050,525,"Gas Service",5,42,210,21,231
+1051,526,"AC Maintenance Service",8,32,256,26,282
+1052,526,"Electricity Service",7,19,133,13,146
+1053,527,"AC Maintenance Service",6,39,234,23,257
+1054,527,"AC Maintenance Service",1,31,31,3,34
+1055,528,"Flooring Service",1,37,37,4,41
+1056,528,"Electricity Service",4,23,92,9,101
+1057,529,"Gas Service",10,21,210,21,231
+1058,529,"Flooring Service",1,30,30,3,33
+1059,530,"Window Cleaning Service",3,20,60,6,66
+1060,530,"Flooring Service",2,38,76,8,84
+1061,531,"Window Cleaning Service",3,36,108,11,119
+1062,531,"Gas Service",6,22,132,13,145
+1063,532,"Window Cleaning Service",6,29,174,17,191
+1064,532,"Plumber Service",2,23,46,5,51
+1065,533,"Gas Service",1,18,18,2,20
+1066,533,"Electricity Service",5,23,115,12,127
+1067,534,"Flooring Service",8,12,96,10,106
+1068,534,"Gas Service",4,14,56,6,62
+1069,535,"Flooring Service",9,44,396,40,436
+1070,535,"Gas Service",1,18,18,2,20
+1071,536,"Flooring Service",6,47,282,28,310
+1072,536,"Window Cleaning Service",3,33,99,10,109
+1073,537,"Gas Service",2,34,68,7,75
+1074,537,"Plumber Service",1,11,11,1,12
+1075,538,"Gas Service",3,11,33,3,36
+1076,538,"Flooring Service",9,13,117,12,129
+1077,539,"Window Cleaning Service",5,48,240,24,264
+1078,539,"Plumber Service",8,47,376,38,414
+1079,540,"AC Maintenance Service",7,35,245,25,270
+1080,540,"Flooring Service",3,36,108,11,119
+1081,541,"AC Maintenance Service",6,25,150,15,165
+1082,541,"AC Maintenance Service",7,39,273,27,300
+1083,542,"AC Maintenance Service",5,48,240,24,264
+1084,542,"Gas Service",5,31,155,16,171
+1085,543,"Plumber Service",10,30,300,30,330
+1086,543,"Electricity Service",10,49,490,49,539
+1087,544,"Electricity Service",7,15,105,11,116
+1088,544,"Window Cleaning Service",4,20,80,8,88
+1089,545,"Window Cleaning Service",7,43,301,30,331
+1090,545,"Flooring Service",4,34,136,14,150
+1091,546,"Window Cleaning Service",4,44,176,18,194
+1092,546,"Window Cleaning Service",8,23,184,18,202
+1093,547,"Plumber Service",9,16,144,14,158
+1094,547,"Electricity Service",9,41,369,37,406
+1095,548,"Window Cleaning Service",2,42,84,8,92
+1096,548,"Flooring Service",2,31,62,6,68
+1097,549,"Window Cleaning Service",2,33,66,7,73
+1098,549,"Window Cleaning Service",6,30,180,18,198
+1099,550,"Electricity Service",1,21,21,2,23
+1100,550,"Plumber Service",4,35,140,14,154
+1101,551,"AC Maintenance Service",2,11,22,2,24
+1102,551,"Window Cleaning Service",6,33,198,20,218
+1103,552,"Flooring Service",8,19,152,15,167
+1104,552,"Window Cleaning Service",5,27,135,14,149
+1105,553,"Plumber Service",8,10,80,8,88
+1106,553,"Plumber Service",7,34,238,24,262
+1107,554,"Plumber Service",6,10,60,6,66
+1108,554,"AC Maintenance Service",5,43,215,22,237
+1109,555,"Electricity Service",1,22,22,2,24
+1110,555,"Gas Service",3,30,90,9,99
+1111,556,"Plumber Service",6,46,276,28,304
+1112,556,"Flooring Service",4,24,96,10,106
+1113,557,"Plumber Service",8,39,312,31,343
+1114,557,"Flooring Service",1,17,17,2,19
+1115,558,"AC Maintenance Service",4,36,144,14,158
+1116,558,"Gas Service",2,32,64,6,70
+1117,559,"Flooring Service",9,26,234,23,257
+1118,559,"Flooring Service",7,44,308,31,339
+1119,560,"Window Cleaning Service",5,47,235,24,259
+1120,560,"AC Maintenance Service",3,31,93,9,102
+1121,561,"Plumber Service",1,11,11,1,12
+1122,561,"Flooring Service",8,28,224,22,246
+1123,562,"Electricity Service",8,50,400,40,440
+1124,562,"Electricity Service",7,48,336,34,370
+1125,563,"Flooring Service",6,46,276,28,304
+1126,563,"Gas Service",1,29,29,3,32
+1127,564,"Window Cleaning Service",4,50,200,20,220
+1128,564,"Plumber Service",7,42,294,29,323
+1129,565,"Plumber Service",2,19,38,4,42
+1130,565,"Window Cleaning Service",3,14,42,4,46
+1131,566,"Plumber Service",9,40,360,36,396
+1132,566,"Electricity Service",9,38,342,34,376
+1133,567,"Gas Service",7,40,280,28,308
+1134,567,"Gas Service",6,35,210,21,231
+1135,568,"Flooring Service",6,20,120,12,132
+1136,568,"Electricity Service",9,20,180,18,198
+1137,569,"Window Cleaning Service",1,38,38,4,42
+1138,569,"Plumber Service",2,34,68,7,75
+1139,570,"Electricity Service",9,23,207,21,228
+1140,570,"Gas Service",1,13,13,1,14
+1141,571,"Flooring Service",6,43,258,26,284
+1142,571,"Plumber Service",6,26,156,16,172
+1143,572,"Flooring Service",2,19,38,4,42
+1144,572,"Gas Service",2,25,50,5,55
+1145,573,"AC Maintenance Service",8,10,80,8,88
+1146,573,"Window Cleaning Service",2,13,26,3,29
+1147,574,"Electricity Service",6,41,246,25,271
+1148,574,"Flooring Service",6,33,198,20,218
+1149,575,"Electricity Service",1,14,14,1,15
+1150,575,"Plumber Service",3,21,63,6,69
+1151,576,"Gas Service",8,37,296,30,326
+1152,576,"Plumber Service",6,43,258,26,284
+1153,577,"AC Maintenance Service",1,18,18,2,20
+1154,577,"Gas Service",7,12,84,8,92
+1155,578,"AC Maintenance Service",7,22,154,15,169
+1156,578,"AC Maintenance Service",1,41,41,4,45
+1157,579,"Flooring Service",6,19,114,11,125
+1158,579,"AC Maintenance Service",5,48,240,24,264
+1159,580,"Plumber Service",2,40,80,8,88
+1160,580,"AC Maintenance Service",6,12,72,7,79
+1161,581,"Electricity Service",10,14,140,14,154
+1162,581,"AC Maintenance Service",5,26,130,13,143
+1163,582,"Window Cleaning Service",8,23,184,18,202
+1164,582,"Window Cleaning Service",2,48,96,10,106
+1165,583,"Gas Service",6,10,60,6,66
+1166,583,"Plumber Service",1,35,35,4,39
+1167,584,"Electricity Service",8,17,136,14,150
+1168,584,"Plumber Service",5,32,160,16,176
+1169,585,"Flooring Service",6,48,288,29,317
+1170,585,"Plumber Service",4,23,92,9,101
+1171,586,"Plumber Service",9,31,279,28,307
+1172,586,"Gas Service",5,42,210,21,231
+1173,587,"Window Cleaning Service",1,41,41,4,45
+1174,587,"Electricity Service",1,14,14,1,15
+1175,588,"Electricity Service",2,25,50,5,55
+1176,588,"Plumber Service",4,23,92,9,101
+1177,589,"Flooring Service",7,11,77,8,85
+1178,589,"Window Cleaning Service",2,10,20,2,22
+1179,590,"AC Maintenance Service",7,29,203,20,223
+1180,590,"Window Cleaning Service",7,26,182,18,200
+1181,591,"Flooring Service",7,42,294,29,323
+1182,591,"Window Cleaning Service",4,10,40,4,44
+1183,592,"Plumber Service",2,48,96,10,106
+1184,592,"Gas Service",9,31,279,28,307
+1185,593,"Gas Service",9,48,432,43,475
+1186,593,"Flooring Service",5,49,245,25,270
+1187,594,"Flooring Service",7,20,140,14,154
+1188,594,"Plumber Service",3,45,135,14,149
+1189,595,"Flooring Service",5,49,245,25,270
+1190,595,"Plumber Service",5,28,140,14,154
+1191,596,"Electricity Service",7,23,161,16,177
+1192,596,"Electricity Service",7,49,343,34,377
+1193,597,"Gas Service",8,27,216,22,238
+1194,597,"Window Cleaning Service",9,31,279,28,307
+1195,598,"Gas Service",7,15,105,11,116
+1196,598,"Flooring Service",6,23,138,14,152
+1197,599,"Flooring Service",4,47,188,19,207
+1198,599,"Flooring Service",8,12,96,10,106
+1199,600,"Plumber Service",6,46,276,28,304
+1200,600,"Electricity Service",4,45,180,18,198
+1201,601,"Plumber Service",9,10,90,9,99
+1202,601,"Window Cleaning Service",7,24,168,17,185
+1203,602,"Plumber Service",9,46,414,41,455
+1204,602,"Gas Service",5,11,55,6,61
+1205,603,"Gas Service",5,14,70,7,77
+1206,603,"Flooring Service",5,29,145,15,160
+1207,604,"Flooring Service",3,35,105,11,116
+1208,604,"Gas Service",6,18,108,11,119
+1209,605,"AC Maintenance Service",6,28,168,17,185
+1210,605,"Gas Service",4,24,96,10,106
+1211,606,"Window Cleaning Service",4,20,80,8,88
+1212,606,"AC Maintenance Service",5,48,240,24,264
+1213,607,"Plumber Service",3,35,105,11,116
+1214,607,"Gas Service",10,47,470,47,517
+1215,608,"Window Cleaning Service",1,39,39,4,43
+1216,608,"Gas Service",5,49,245,25,270
+1217,609,"Gas Service",10,26,260,26,286
+1218,609,"Gas Service",1,24,24,2,26
+1219,610,"Gas Service",6,13,78,8,86
+1220,610,"AC Maintenance Service",8,23,184,18,202
+1221,611,"Gas Service",4,38,152,15,167
+1222,611,"Flooring Service",8,45,360,36,396
+1223,612,"Gas Service",2,44,88,9,97
+1224,612,"Gas Service",5,49,245,25,270
+1225,613,"Flooring Service",9,50,450,45,495
+1226,613,"Gas Service",1,29,29,3,32
+1227,614,"Window Cleaning Service",10,24,240,24,264
+1228,614,"Electricity Service",3,47,141,14,155
+1229,615,"Plumber Service",7,11,77,8,85
+1230,615,"Plumber Service",1,49,49,5,54
+1231,616,"Electricity Service",8,44,352,35,387
+1232,616,"Window Cleaning Service",7,12,84,8,92
+1233,617,"Flooring Service",5,12,60,6,66
+1234,617,"Window Cleaning Service",1,32,32,3,35
+1235,618,"AC Maintenance Service",10,21,210,21,231
+1236,618,"AC Maintenance Service",9,38,342,34,376
+1237,619,"Plumber Service",5,31,155,16,171
+1238,619,"Window Cleaning Service",9,50,450,45,495
+1239,620,"Window Cleaning Service",6,38,228,23,251
+1240,620,"Plumber Service",2,33,66,7,73
+1241,621,"Electricity Service",5,27,135,14,149
+1242,621,"Flooring Service",8,41,328,33,361
+1243,622,"Electricity Service",4,49,196,20,216
+1244,622,"Electricity Service",3,48,144,14,158
+1245,623,"Flooring Service",3,11,33,3,36
+1246,623,"Electricity Service",6,19,114,11,125
+1247,624,"Flooring Service",10,45,450,45,495
+1248,624,"AC Maintenance Service",9,46,414,41,455
+1249,625,"Window Cleaning Service",3,35,105,11,116
+1250,625,"Window Cleaning Service",10,15,150,15,165
+1251,626,"AC Maintenance Service",1,42,42,4,46
+1252,626,"Plumber Service",8,22,176,18,194
+1253,627,"Gas Service",8,25,200,20,220
+1254,627,"Flooring Service",5,29,145,15,160
+1255,628,"Electricity Service",7,27,189,19,208
+1256,628,"Gas Service",3,46,138,14,152
+1257,629,"Electricity Service",10,47,470,47,517
+1258,629,"Plumber Service",4,39,156,16,172
+1259,630,"Plumber Service",9,24,216,22,238
+1260,630,"Window Cleaning Service",1,31,31,3,34
+1261,631,"AC Maintenance Service",4,12,48,5,53
+1262,631,"AC Maintenance Service",3,39,117,12,129
+1263,632,"Window Cleaning Service",4,32,128,13,141
+1264,632,"AC Maintenance Service",5,16,80,8,88
+1265,633,"AC Maintenance Service",9,41,369,37,406
+1266,633,"Window Cleaning Service",10,40,400,40,440
+1267,634,"Electricity Service",9,32,288,29,317
+1268,634,"AC Maintenance Service",10,34,340,34,374
+1269,635,"Gas Service",6,43,258,26,284
+1270,635,"Window Cleaning Service",1,42,42,4,46
+1271,636,"Window Cleaning Service",2,40,80,8,88
+1272,636,"Electricity Service",3,35,105,11,116
+1273,637,"AC Maintenance Service",2,29,58,6,64
+1274,637,"Gas Service",4,22,88,9,97
+1275,638,"Flooring Service",5,33,165,17,182
+1276,638,"Gas Service",2,32,64,6,70
+1277,639,"Flooring Service",4,34,136,14,150
+1278,639,"Window Cleaning Service",7,27,189,19,208
+1279,640,"Window Cleaning Service",5,41,205,21,226
+1280,640,"Gas Service",3,23,69,7,76
+1281,641,"Flooring Service",9,11,99,10,109
+1282,641,"Flooring Service",5,25,125,13,138
+1283,642,"AC Maintenance Service",4,26,104,10,114
+1284,642,"Plumber Service",6,43,258,26,284
+1285,643,"AC Maintenance Service",9,27,243,24,267
+1286,643,"Flooring Service",7,33,231,23,254
+1287,644,"Plumber Service",4,40,160,16,176
+1288,644,"Flooring Service",8,32,256,26,282
+1289,645,"Window Cleaning Service",5,11,55,6,61
+1290,645,"Window Cleaning Service",2,12,24,2,26
+1291,646,"Plumber Service",3,50,150,15,165
+1292,646,"Electricity Service",5,13,65,7,72
+1293,647,"Window Cleaning Service",9,33,297,30,327
+1294,647,"Plumber Service",10,32,320,32,352
+1295,648,"Window Cleaning Service",9,33,297,30,327
+1296,648,"Flooring Service",2,43,86,9,95
+1297,649,"Flooring Service",7,42,294,29,323
+1298,649,"AC Maintenance Service",3,46,138,14,152
+1299,650,"Window Cleaning Service",5,15,75,8,83
+1300,650,"Flooring Service",4,24,96,10,106
+1301,651,"Flooring Service",7,44,308,31,339
+1302,651,"Window Cleaning Service",5,23,115,12,127
+1303,652,"Flooring Service",4,29,116,12,128
+1304,652,"Gas Service",4,49,196,20,216
+1305,653,"Window Cleaning Service",1,46,46,5,51
+1306,653,"Window Cleaning Service",6,36,216,22,238
+1307,654,"Window Cleaning Service",1,16,16,2,18
+1308,654,"Gas Service",8,17,136,14,150
+1309,655,"Electricity Service",5,31,155,16,171
+1310,655,"Plumber Service",3,49,147,15,162
+1311,656,"Flooring Service",7,22,154,15,169
+1312,656,"Electricity Service",7,49,343,34,377
+1313,657,"Electricity Service",3,32,96,10,106
+1314,657,"Window Cleaning Service",9,25,225,23,248
+1315,658,"Flooring Service",9,30,270,27,297
+1316,658,"AC Maintenance Service",5,39,195,20,215
+1317,659,"Electricity Service",5,15,75,8,83
+1318,659,"Flooring Service",3,40,120,12,132
+1319,660,"AC Maintenance Service",3,12,36,4,40
+1320,660,"Flooring Service",6,33,198,20,218
+1321,661,"Gas Service",5,12,60,6,66
+1322,661,"Flooring Service",4,50,200,20,220
+1323,662,"Electricity Service",1,35,35,4,39
+1324,662,"AC Maintenance Service",3,46,138,14,152
+1325,663,"Flooring Service",5,38,190,19,209
+1326,663,"Flooring Service",3,25,75,8,83
+1327,664,"Flooring Service",2,13,26,3,29
+1328,664,"Gas Service",6,24,144,14,158
+1329,665,"Electricity Service",6,33,198,20,218
+1330,665,"Plumber Service",1,38,38,4,42
+1331,666,"AC Maintenance Service",6,49,294,29,323
+1332,666,"Gas Service",9,13,117,12,129
+1333,667,"AC Maintenance Service",3,40,120,12,132
+1334,667,"Plumber Service",2,35,70,7,77
+1335,668,"Window Cleaning Service",2,34,68,7,75
+1336,668,"Flooring Service",6,11,66,7,73
+1337,669,"AC Maintenance Service",9,40,360,36,396
+1338,669,"AC Maintenance Service",2,20,40,4,44
+1339,670,"Flooring Service",10,36,360,36,396
+1340,670,"Gas Service",8,22,176,18,194
+1341,671,"Window Cleaning Service",2,14,28,3,31
+1342,671,"Gas Service",4,20,80,8,88
+1343,672,"AC Maintenance Service",1,10,10,1,11
+1344,672,"AC Maintenance Service",9,15,135,14,149
+1345,673,"Window Cleaning Service",1,41,41,4,45
+1346,673,"Gas Service",5,49,245,25,270
+1347,674,"Flooring Service",3,37,111,11,122
+1348,674,"AC Maintenance Service",2,14,28,3,31
+1349,675,"Window Cleaning Service",7,27,189,19,208
+1350,675,"Flooring Service",7,21,147,15,162
+1351,676,"Window Cleaning Service",7,15,105,11,116
+1352,676,"Window Cleaning Service",3,20,60,6,66
+1353,677,"Window Cleaning Service",8,34,272,27,299
+1354,677,"Electricity Service",3,39,117,12,129
+1355,678,"Gas Service",3,14,42,4,46
+1356,678,"Gas Service",2,39,78,8,86
+1357,679,"Electricity Service",3,11,33,3,36
+1358,679,"Electricity Service",1,12,12,1,13
+1359,680,"Window Cleaning Service",5,17,85,9,94
+1360,680,"Window Cleaning Service",1,21,21,2,23
+1361,681,"Electricity Service",8,20,160,16,176
+1362,681,"Flooring Service",6,39,234,23,257
+1363,682,"Flooring Service",9,22,198,20,218
+1364,682,"Window Cleaning Service",7,18,126,13,139
+1365,683,"Plumber Service",8,13,104,10,114
+1366,683,"Window Cleaning Service",8,27,216,22,238
+1367,684,"Electricity Service",7,21,147,15,162
+1368,684,"Flooring Service",1,49,49,5,54
+1369,685,"Flooring Service",2,21,42,4,46
+1370,685,"AC Maintenance Service",4,28,112,11,123
+1371,686,"Window Cleaning Service",9,39,351,35,386
+1372,686,"Window Cleaning Service",7,41,287,29,316
+1373,687,"Flooring Service",1,44,44,4,48
+1374,687,"Window Cleaning Service",1,17,17,2,19
+1375,688,"Electricity Service",10,12,120,12,132
+1376,688,"Plumber Service",9,37,333,33,366
+1377,689,"Window Cleaning Service",1,40,40,4,44
+1378,689,"Plumber Service",1,22,22,2,24
+1379,690,"AC Maintenance Service",4,28,112,11,123
+1380,690,"Gas Service",10,41,410,41,451
+1381,691,"Electricity Service",10,48,480,48,528
+1382,691,"AC Maintenance Service",8,41,328,33,361
+1383,692,"AC Maintenance Service",10,41,410,41,451
+1384,692,"Window Cleaning Service",9,30,270,27,297
+1385,693,"Electricity Service",6,41,246,25,271
+1386,693,"Gas Service",2,39,78,8,86
+1387,694,"Plumber Service",9,44,396,40,436
+1388,694,"Gas Service",7,37,259,26,285
+1389,695,"Plumber Service",6,32,192,19,211
+1390,695,"AC Maintenance Service",5,22,110,11,121
+1391,696,"Flooring Service",2,10,20,2,22
+1392,696,"Gas Service",8,10,80,8,88
+1393,697,"Window Cleaning Service",8,38,304,30,334
+1394,697,"Gas Service",6,14,84,8,92
+1395,698,"Electricity Service",8,43,344,34,378
+1396,698,"Electricity Service",5,45,225,23,248
+1397,699,"Plumber Service",10,37,370,37,407
+1398,699,"AC Maintenance Service",2,11,22,2,24
+1399,700,"Electricity Service",10,47,470,47,517
+1400,700,"Window Cleaning Service",10,25,250,25,275
+1401,701,"Gas Service",5,16,80,8,88
+1402,701,"Electricity Service",4,48,192,19,211
+1403,702,"Flooring Service",2,20,40,4,44
+1404,702,"Electricity Service",5,20,100,10,110
+1405,703,"AC Maintenance Service",8,15,120,12,132
+1406,703,"AC Maintenance Service",4,27,108,11,119
+1407,704,"Plumber Service",3,29,87,9,96
+1408,704,"Electricity Service",3,26,78,8,86
+1409,705,"Electricity Service",10,42,420,42,462
+1410,705,"Plumber Service",6,28,168,17,185
+1411,706,"Gas Service",4,28,112,11,123
+1412,706,"Window Cleaning Service",6,23,138,14,152
+1413,707,"Flooring Service",5,20,100,10,110
+1414,707,"Plumber Service",5,50,250,25,275
+1415,708,"AC Maintenance Service",5,11,55,6,61
+1416,708,"Plumber Service",4,20,80,8,88
+1417,709,"Plumber Service",7,36,252,25,277
+1418,709,"Window Cleaning Service",5,28,140,14,154
+1419,710,"Window Cleaning Service",1,37,37,4,41
+1420,710,"Electricity Service",1,40,40,4,44
+1421,711,"Electricity Service",10,44,440,44,484
+1422,711,"Plumber Service",1,19,19,2,21
+1423,712,"Window Cleaning Service",1,39,39,4,43
+1424,712,"Gas Service",5,16,80,8,88
+1425,713,"Window Cleaning Service",6,21,126,13,139
+1426,713,"Gas Service",8,42,336,34,370
+1427,714,"Plumber Service",7,41,287,29,316
+1428,714,"Flooring Service",5,34,170,17,187
+1429,715,"AC Maintenance Service",7,14,98,10,108
+1430,715,"Flooring Service",2,15,30,3,33
+1431,716,"Electricity Service",6,45,270,27,297
+1432,716,"Plumber Service",4,38,152,15,167
+1433,717,"Electricity Service",10,25,250,25,275
+1434,717,"Electricity Service",1,34,34,3,37
+1435,718,"Window Cleaning Service",7,32,224,22,246
+1436,718,"Plumber Service",2,11,22,2,24
+1437,719,"Electricity Service",9,47,423,42,465
+1438,719,"Window Cleaning Service",5,28,140,14,154
+1439,720,"AC Maintenance Service",6,26,156,16,172
+1440,720,"Window Cleaning Service",5,19,95,10,105
+1441,721,"Gas Service",10,12,120,12,132
+1442,721,"Flooring Service",3,37,111,11,122
+1443,722,"AC Maintenance Service",4,22,88,9,97
+1444,722,"Flooring Service",5,10,50,5,55
+1445,723,"Plumber Service",9,25,225,23,248
+1446,723,"AC Maintenance Service",10,38,380,38,418
+1447,724,"Window Cleaning Service",8,20,160,16,176
+1448,724,"Gas Service",8,44,352,35,387
+1449,725,"Electricity Service",5,24,120,12,132
+1450,725,"Gas Service",2,31,62,6,68
+1451,726,"Electricity Service",7,32,224,22,246
+1452,726,"Electricity Service",6,50,300,30,330
+1453,727,"Electricity Service",4,21,84,8,92
+1454,727,"Gas Service",7,36,252,25,277
+1455,728,"Plumber Service",7,50,350,35,385
+1456,728,"Gas Service",6,31,186,19,205
+1457,729,"Electricity Service",5,23,115,12,127
+1458,729,"Window Cleaning Service",5,31,155,16,171
+1459,730,"Plumber Service",5,30,150,15,165
+1460,730,"Plumber Service",10,21,210,21,231
+1461,731,"Electricity Service",2,40,80,8,88
+1462,731,"Plumber Service",8,18,144,14,158
+1463,732,"Gas Service",1,50,50,5,55
+1464,732,"Window Cleaning Service",7,38,266,27,293
+1465,733,"AC Maintenance Service",5,37,185,19,204
+1466,733,"Flooring Service",2,28,56,6,62
+1467,734,"AC Maintenance Service",2,19,38,4,42
+1468,734,"Gas Service",9,47,423,42,465
+1469,735,"Electricity Service",8,23,184,18,202
+1470,735,"Plumber Service",2,23,46,5,51
+1471,736,"Gas Service",4,45,180,18,198
+1472,736,"AC Maintenance Service",10,29,290,29,319
+1473,737,"Gas Service",4,21,84,8,92
+1474,737,"AC Maintenance Service",7,36,252,25,277
+1475,738,"Flooring Service",7,35,245,25,270
+1476,738,"AC Maintenance Service",2,19,38,4,42
+1477,739,"Electricity Service",8,15,120,12,132
+1478,739,"Window Cleaning Service",6,37,222,22,244
+1479,740,"Plumber Service",4,24,96,10,106
+1480,740,"Electricity Service",6,10,60,6,66
+1481,741,"AC Maintenance Service",7,20,140,14,154
+1482,741,"AC Maintenance Service",3,38,114,11,125
+1483,742,"Plumber Service",3,10,30,3,33
+1484,742,"Electricity Service",5,42,210,21,231
+1485,743,"Gas Service",9,30,270,27,297
+1486,743,"Electricity Service",10,25,250,25,275
+1487,744,"Electricity Service",8,45,360,36,396
+1488,744,"Gas Service",8,19,152,15,167
+1489,745,"Window Cleaning Service",2,41,82,8,90
+1490,745,"AC Maintenance Service",9,18,162,16,178
+1491,746,"AC Maintenance Service",8,10,80,8,88
+1492,746,"AC Maintenance Service",1,23,23,2,25
+1493,747,"Window Cleaning Service",5,20,100,10,110
+1494,747,"Window Cleaning Service",4,13,52,5,57
+1495,748,"Flooring Service",5,23,115,12,127
+1496,748,"AC Maintenance Service",8,38,304,30,334
+1497,749,"Flooring Service",2,28,56,6,62
+1498,749,"Flooring Service",4,50,200,20,220
+1499,750,"Gas Service",9,46,414,41,455
+1500,750,"AC Maintenance Service",4,31,124,12,136
+1501,751,"AC Maintenance Service",3,43,129,13,142
+1502,751,"Electricity Service",2,39,78,8,86
+1503,752,"Gas Service",6,28,168,17,185
+1504,752,"Window Cleaning Service",5,36,180,18,198
+1505,753,"Plumber Service",10,42,420,42,462
+1506,753,"Window Cleaning Service",8,40,320,32,352
+1507,754,"Gas Service",2,34,68,7,75
+1508,754,"Electricity Service",8,21,168,17,185
+1509,755,"Window Cleaning Service",9,14,126,13,139
+1510,755,"Window Cleaning Service",10,34,340,34,374
+1511,756,"Window Cleaning Service",7,10,70,7,77
+1512,756,"Flooring Service",8,29,232,23,255
+1513,757,"Flooring Service",10,48,480,48,528
+1514,757,"Window Cleaning Service",7,12,84,8,92
+1515,758,"Electricity Service",6,43,258,26,284
+1516,758,"Electricity Service",3,44,132,13,145
+1517,759,"Electricity Service",9,22,198,20,218
+1518,759,"Gas Service",9,10,90,9,99
+1519,760,"Gas Service",8,19,152,15,167
+1520,760,"AC Maintenance Service",4,21,84,8,92
+1521,761,"AC Maintenance Service",3,41,123,12,135
+1522,761,"Window Cleaning Service",9,40,360,36,396
+1523,762,"Electricity Service",6,11,66,7,73
+1524,762,"AC Maintenance Service",2,33,66,7,73
+1525,763,"AC Maintenance Service",3,16,48,5,53
+1526,763,"Flooring Service",8,43,344,34,378
+1527,764,"Window Cleaning Service",3,10,30,3,33
+1528,764,"Electricity Service",1,49,49,5,54
+1529,765,"Window Cleaning Service",5,46,230,23,253
+1530,765,"Electricity Service",8,19,152,15,167
+1531,766,"Electricity Service",7,25,175,18,193
+1532,766,"Electricity Service",1,11,11,1,12
+1533,767,"Flooring Service",8,33,264,26,290
+1534,767,"Electricity Service",9,41,369,37,406
+1535,768,"Gas Service",9,21,189,19,208
+1536,768,"Electricity Service",4,16,64,6,70
+1537,769,"Electricity Service",4,23,92,9,101
+1538,769,"Window Cleaning Service",2,22,44,4,48
+1539,770,"AC Maintenance Service",7,12,84,8,92
+1540,770,"Electricity Service",6,40,240,24,264
+1541,771,"Electricity Service",6,34,204,20,224
+1542,771,"Flooring Service",8,32,256,26,282
+1543,772,"AC Maintenance Service",9,37,333,33,366
+1544,772,"Plumber Service",9,41,369,37,406
+1545,773,"Plumber Service",3,25,75,8,83
+1546,773,"Electricity Service",7,18,126,13,139
+1547,774,"Flooring Service",7,21,147,15,162
+1548,774,"Gas Service",5,34,170,17,187
+1549,775,"AC Maintenance Service",8,48,384,38,422
+1550,775,"Gas Service",3,15,45,5,50
+1551,776,"Electricity Service",4,47,188,19,207
+1552,776,"Flooring Service",10,22,220,22,242
+1553,777,"Electricity Service",1,17,17,2,19
+1554,777,"Electricity Service",5,41,205,21,226
+1555,778,"Plumber Service",4,20,80,8,88
+1556,778,"Window Cleaning Service",3,37,111,11,122
+1557,779,"Flooring Service",2,16,32,3,35
+1558,779,"Gas Service",7,41,287,29,316
+1559,780,"Flooring Service",5,11,55,6,61
+1560,780,"Plumber Service",1,18,18,2,20
+1561,781,"Window Cleaning Service",7,18,126,13,139
+1562,781,"Plumber Service",1,39,39,4,43
+1563,782,"Window Cleaning Service",4,44,176,18,194
+1564,782,"Electricity Service",5,11,55,6,61
+1565,783,"Flooring Service",10,34,340,34,374
+1566,783,"Electricity Service",9,48,432,43,475
+1567,784,"Window Cleaning Service",3,21,63,6,69
+1568,784,"Gas Service",4,31,124,12,136
+1569,785,"Plumber Service",1,34,34,3,37
+1570,785,"AC Maintenance Service",2,14,28,3,31
+1571,786,"Window Cleaning Service",4,15,60,6,66
+1572,786,"Electricity Service",7,18,126,13,139
+1573,787,"Window Cleaning Service",1,36,36,4,40
+1574,787,"Flooring Service",5,33,165,17,182
+1575,788,"Flooring Service",9,21,189,19,208
+1576,788,"Window Cleaning Service",7,21,147,15,162
+1577,789,"Plumber Service",3,15,45,5,50
+1578,789,"Plumber Service",2,38,76,8,84
+1579,790,"Plumber Service",10,23,230,23,253
+1580,790,"AC Maintenance Service",9,28,252,25,277
+1581,791,"Electricity Service",4,17,68,7,75
+1582,791,"AC Maintenance Service",5,49,245,25,270
+1583,792,"Flooring Service",5,18,90,9,99
+1584,792,"Window Cleaning Service",9,30,270,27,297
+1585,793,"Gas Service",5,17,85,9,94
+1586,793,"Flooring Service",4,33,132,13,145
+1587,794,"AC Maintenance Service",3,19,57,6,63
+1588,794,"Plumber Service",9,18,162,16,178
+1589,795,"Gas Service",9,36,324,32,356
+1590,795,"Window Cleaning Service",6,37,222,22,244
+1591,796,"Plumber Service",9,35,315,32,347
+1592,796,"Flooring Service",10,49,490,49,539
+1593,797,"Electricity Service",7,17,119,12,131
+1594,797,"Window Cleaning Service",10,31,310,31,341
+1595,798,"Gas Service",6,16,96,10,106
+1596,798,"Flooring Service",10,13,130,13,143
+1597,799,"Window Cleaning Service",5,15,75,8,83
+1598,799,"Flooring Service",6,50,300,30,330
+1599,800,"Window Cleaning Service",1,43,43,4,47
+1600,800,"Flooring Service",2,18,36,4,40
+1601,801,"Gas Service",9,47,423,42,465
+1602,801,"Electricity Service",9,37,333,33,366
+1603,802,"Flooring Service",1,39,39,4,43
+1604,802,"Electricity Service",3,14,42,4,46
+1605,803,"Plumber Service",7,50,350,35,385
+1606,803,"Window Cleaning Service",4,18,72,7,79
+1607,804,"Electricity Service",9,45,405,41,446
+1608,804,"Plumber Service",9,39,351,35,386
+1609,805,"AC Maintenance Service",3,11,33,3,36
+1610,805,"AC Maintenance Service",9,30,270,27,297
+1611,806,"Window Cleaning Service",4,42,168,17,185
+1612,806,"AC Maintenance Service",4,28,112,11,123
+1613,807,"AC Maintenance Service",8,37,296,30,326
+1614,807,"Flooring Service",5,14,70,7,77
+1615,808,"AC Maintenance Service",7,45,315,32,347
+1616,808,"AC Maintenance Service",8,19,152,15,167
+1617,809,"Window Cleaning Service",9,26,234,23,257
+1618,809,"Flooring Service",1,28,28,3,31
+1619,810,"Plumber Service",6,42,252,25,277
+1620,810,"Gas Service",5,44,220,22,242
+1621,811,"Gas Service",9,31,279,28,307
+1622,811,"Plumber Service",6,49,294,29,323
+1623,812,"Plumber Service",6,31,186,19,205
+1624,812,"Window Cleaning Service",10,21,210,21,231
+1625,813,"Flooring Service",9,25,225,23,248
+1626,813,"Electricity Service",8,20,160,16,176
+1627,814,"Flooring Service",7,14,98,10,108
+1628,814,"Gas Service",6,36,216,22,238
+1629,815,"Flooring Service",2,43,86,9,95
+1630,815,"Flooring Service",1,31,31,3,34
+1631,816,"Flooring Service",7,42,294,29,323
+1632,816,"AC Maintenance Service",4,33,132,13,145
+1633,817,"Window Cleaning Service",1,42,42,4,46
+1634,817,"Window Cleaning Service",7,15,105,11,116
+1635,818,"Flooring Service",8,33,264,26,290
+1636,818,"Electricity Service",9,16,144,14,158
+1637,819,"Gas Service",3,29,87,9,96
+1638,819,"AC Maintenance Service",9,11,99,10,109
+1639,820,"AC Maintenance Service",2,28,56,6,62
+1640,820,"Gas Service",5,38,190,19,209
+1641,821,"Plumber Service",9,30,270,27,297
+1642,821,"Flooring Service",1,35,35,4,39
+1643,822,"Plumber Service",5,10,50,5,55
+1644,822,"Gas Service",8,33,264,26,290
+1645,823,"Electricity Service",6,39,234,23,257
+1646,823,"Gas Service",3,49,147,15,162
+1647,824,"AC Maintenance Service",9,41,369,37,406
+1648,824,"AC Maintenance Service",6,15,90,9,99
+1649,825,"Window Cleaning Service",4,21,84,8,92
+1650,825,"Gas Service",3,50,150,15,165
+1651,826,"AC Maintenance Service",7,44,308,31,339
+1652,826,"Electricity Service",4,23,92,9,101
+1653,827,"Plumber Service",5,24,120,12,132
+1654,827,"Flooring Service",7,25,175,18,193
+1655,828,"Electricity Service",2,49,98,10,108
+1656,828,"AC Maintenance Service",9,20,180,18,198
+1657,829,"Plumber Service",7,11,77,8,85
+1658,829,"Window Cleaning Service",5,41,205,21,226
+1659,830,"Electricity Service",6,19,114,11,125
+1660,830,"Flooring Service",3,20,60,6,66
+1661,831,"Flooring Service",3,28,84,8,92
+1662,831,"Gas Service",9,29,261,26,287
+1663,832,"Flooring Service",9,45,405,41,446
+1664,832,"Flooring Service",4,32,128,13,141
+1665,833,"AC Maintenance Service",6,28,168,17,185
+1666,833,"AC Maintenance Service",6,37,222,22,244
+1667,834,"Gas Service",8,24,192,19,211
+1668,834,"Window Cleaning Service",8,15,120,12,132
+1669,835,"Electricity Service",8,25,200,20,220
+1670,835,"Gas Service",3,12,36,4,40
+1671,836,"Plumber Service",7,13,91,9,100
+1672,836,"Flooring Service",6,34,204,20,224
+1673,837,"Gas Service",2,36,72,7,79
+1674,837,"Window Cleaning Service",9,49,441,44,485
+1675,838,"Electricity Service",7,21,147,15,162
+1676,838,"Flooring Service",7,45,315,32,347
+1677,839,"Plumber Service",3,17,51,5,56
+1678,839,"Gas Service",8,24,192,19,211
+1679,840,"Window Cleaning Service",2,28,56,6,62
+1680,840,"Plumber Service",10,44,440,44,484
+1681,841,"AC Maintenance Service",7,39,273,27,300
+1682,841,"Gas Service",3,19,57,6,63
+1683,842,"Flooring Service",1,40,40,4,44
+1684,842,"Electricity Service",10,14,140,14,154
+1685,843,"Electricity Service",10,10,100,10,110
+1686,843,"Window Cleaning Service",4,25,100,10,110
+1687,844,"Gas Service",1,32,32,3,35
+1688,844,"Plumber Service",6,39,234,23,257
+1689,845,"Electricity Service",6,21,126,13,139
+1690,845,"Electricity Service",5,20,100,10,110
+1691,846,"Electricity Service",10,21,210,21,231
+1692,846,"Gas Service",6,12,72,7,79
+1693,847,"Plumber Service",10,27,270,27,297
+1694,847,"Electricity Service",4,39,156,16,172
+1695,848,"Plumber Service",10,14,140,14,154
+1696,848,"Electricity Service",8,47,376,38,414
+1697,849,"Window Cleaning Service",1,47,47,5,52
+1698,849,"Electricity Service",10,50,500,50,550
+1699,850,"Window Cleaning Service",3,15,45,5,50
+1700,850,"Electricity Service",7,22,154,15,169
+1701,851,"Gas Service",2,45,90,9,99
+1702,851,"Electricity Service",9,38,342,34,376
+1703,852,"Plumber Service",8,20,160,16,176
+1704,852,"Plumber Service",3,18,54,5,59
+1705,853,"Flooring Service",5,44,220,22,242
+1706,853,"Gas Service",8,27,216,22,238
+1707,854,"Window Cleaning Service",2,20,40,4,44
+1708,854,"Plumber Service",8,43,344,34,378
+1709,855,"Flooring Service",9,40,360,36,396
+1710,855,"Window Cleaning Service",5,24,120,12,132
+1711,856,"Flooring Service",7,39,273,27,300
+1712,856,"Plumber Service",10,42,420,42,462
+1713,857,"Gas Service",3,22,66,7,73
+1714,857,"Plumber Service",7,38,266,27,293
+1715,858,"AC Maintenance Service",5,38,190,19,209
+1716,858,"Flooring Service",4,49,196,20,216
+1717,859,"Gas Service",3,30,90,9,99
+1718,859,"Window Cleaning Service",3,22,66,7,73
+1719,860,"AC Maintenance Service",9,15,135,14,149
+1720,860,"AC Maintenance Service",8,32,256,26,282
+1721,861,"Gas Service",8,42,336,34,370
+1722,861,"Gas Service",1,27,27,3,30
+1723,862,"Electricity Service",3,27,81,8,89
+1724,862,"Window Cleaning Service",1,16,16,2,18
+1725,863,"Electricity Service",10,42,420,42,462
+1726,863,"Electricity Service",3,25,75,8,83
+1727,864,"Gas Service",5,17,85,9,94
+1728,864,"Gas Service",9,22,198,20,218
+1729,865,"Plumber Service",3,14,42,4,46
+1730,865,"Window Cleaning Service",9,46,414,41,455
+1731,866,"Flooring Service",4,42,168,17,185
+1732,866,"Plumber Service",2,18,36,4,40
+1733,867,"Electricity Service",6,36,216,22,238
+1734,867,"Electricity Service",3,29,87,9,96
+1735,868,"Gas Service",1,41,41,4,45
+1736,868,"Electricity Service",8,34,272,27,299
+1737,869,"Flooring Service",10,39,390,39,429
+1738,869,"Gas Service",6,44,264,26,290
+1739,870,"Window Cleaning Service",6,47,282,28,310
+1740,870,"Flooring Service",1,41,41,4,45
+1741,871,"Plumber Service",3,36,108,11,119
+1742,871,"Gas Service",1,23,23,2,25
+1743,872,"Flooring Service",3,24,72,7,79
+1744,872,"AC Maintenance Service",10,34,340,34,374
+1745,873,"Window Cleaning Service",1,38,38,4,42
+1746,873,"Electricity Service",4,27,108,11,119
+1747,874,"Plumber Service",2,47,94,9,103
+1748,874,"Plumber Service",9,19,171,17,188
+1749,875,"Flooring Service",3,43,129,13,142
+1750,875,"Gas Service",9,38,342,34,376
+1751,876,"Flooring Service",9,25,225,23,248
+1752,876,"Electricity Service",10,44,440,44,484
+1753,877,"Flooring Service",1,29,29,3,32
+1754,877,"AC Maintenance Service",3,50,150,15,165
+1755,878,"Plumber Service",2,28,56,6,62
+1756,878,"Gas Service",1,21,21,2,23
+1757,879,"AC Maintenance Service",2,50,100,10,110
+1758,879,"Flooring Service",7,10,70,7,77
+1759,880,"Plumber Service",10,24,240,24,264
+1760,880,"Plumber Service",10,18,180,18,198
+1761,881,"Plumber Service",9,31,279,28,307
+1762,881,"Gas Service",1,43,43,4,47
+1763,882,"Electricity Service",9,41,369,37,406
+1764,882,"AC Maintenance Service",1,27,27,3,30
+1765,883,"Window Cleaning Service",3,27,81,8,89
+1766,883,"AC Maintenance Service",7,19,133,13,146
+1767,884,"Flooring Service",3,24,72,7,79
+1768,884,"Window Cleaning Service",2,14,28,3,31
+1769,885,"Electricity Service",7,42,294,29,323
+1770,885,"Gas Service",10,47,470,47,517
+1771,886,"AC Maintenance Service",2,32,64,6,70
+1772,886,"Flooring Service",1,20,20,2,22
+1773,887,"Gas Service",4,41,164,16,180
+1774,887,"Window Cleaning Service",9,46,414,41,455
+1775,888,"Window Cleaning Service",8,33,264,26,290
+1776,888,"Window Cleaning Service",7,43,301,30,331
+1777,889,"Plumber Service",3,46,138,14,152
+1778,889,"Gas Service",5,25,125,13,138
+1779,890,"Flooring Service",2,26,52,5,57
+1780,890,"Electricity Service",8,23,184,18,202
+1781,891,"Plumber Service",3,34,102,10,112
+1782,891,"AC Maintenance Service",4,35,140,14,154
+1783,892,"AC Maintenance Service",6,27,162,16,178
+1784,892,"Gas Service",8,29,232,23,255
+1785,893,"Flooring Service",5,21,105,11,116
+1786,893,"Plumber Service",5,41,205,21,226
+1787,894,"Flooring Service",7,40,280,28,308
+1788,894,"Plumber Service",3,42,126,13,139
+1789,895,"Plumber Service",1,30,30,3,33
+1790,895,"Window Cleaning Service",9,30,270,27,297
+1791,896,"Window Cleaning Service",8,35,280,28,308
+1792,896,"Plumber Service",7,16,112,11,123
+1793,897,"Flooring Service",4,49,196,20,216
+1794,897,"Plumber Service",4,35,140,14,154
+1795,898,"AC Maintenance Service",2,31,62,6,68
+1796,898,"Window Cleaning Service",2,21,42,4,46
+1797,899,"Electricity Service",5,11,55,6,61
+1798,899,"Window Cleaning Service",7,14,98,10,108
+1799,900,"Gas Service",3,25,75,8,83
+1800,900,"Electricity Service",2,29,58,6,64
+1801,901,"Electricity Service",1,31,31,3,34
+1802,901,"Electricity Service",7,21,147,15,162
+1803,902,"Flooring Service",9,22,198,20,218
+1804,902,"Plumber Service",7,10,70,7,77
+1805,903,"AC Maintenance Service",10,24,240,24,264
+1806,903,"Flooring Service",3,49,147,15,162
+1807,904,"Flooring Service",2,28,56,6,62
+1808,904,"Electricity Service",5,18,90,9,99
+1809,905,"Flooring Service",9,35,315,32,347
+1810,905,"AC Maintenance Service",3,16,48,5,53
+1811,906,"AC Maintenance Service",7,48,336,34,370
+1812,906,"Plumber Service",1,26,26,3,29
+1813,907,"Flooring Service",5,26,130,13,143
+1814,907,"Electricity Service",9,38,342,34,376
+1815,908,"Gas Service",3,41,123,12,135
+1816,908,"Gas Service",1,27,27,3,30
+1817,909,"AC Maintenance Service",5,46,230,23,253
+1818,909,"Flooring Service",8,38,304,30,334
+1819,910,"Gas Service",7,26,182,18,200
+1820,910,"Window Cleaning Service",4,47,188,19,207
+1821,911,"Gas Service",3,15,45,5,50
+1822,911,"AC Maintenance Service",6,46,276,28,304
+1823,912,"Window Cleaning Service",10,36,360,36,396
+1824,912,"Plumber Service",9,29,261,26,287
+1825,913,"Flooring Service",10,48,480,48,528
+1826,913,"Electricity Service",4,29,116,12,128
+1827,914,"Flooring Service",4,12,48,5,53
+1828,914,"Electricity Service",3,15,45,5,50
+1829,915,"Window Cleaning Service",4,43,172,17,189
+1830,915,"Flooring Service",10,50,500,50,550
+1831,916,"Flooring Service",5,13,65,7,72
+1832,916,"Gas Service",1,41,41,4,45
+1833,917,"Flooring Service",9,12,108,11,119
+1834,917,"AC Maintenance Service",7,32,224,22,246
+1835,918,"Window Cleaning Service",5,22,110,11,121
+1836,918,"Plumber Service",4,28,112,11,123
+1837,919,"Gas Service",10,47,470,47,517
+1838,919,"Flooring Service",4,26,104,10,114
+1839,920,"Gas Service",10,48,480,48,528
+1840,920,"Flooring Service",2,26,52,5,57
+1841,921,"Window Cleaning Service",9,22,198,20,218
+1842,921,"Gas Service",5,27,135,14,149
+1843,922,"Window Cleaning Service",9,32,288,29,317
+1844,922,"Gas Service",6,31,186,19,205
+1845,923,"Window Cleaning Service",7,34,238,24,262
+1846,923,"AC Maintenance Service",6,27,162,16,178
+1847,924,"Plumber Service",9,44,396,40,436
+1848,924,"AC Maintenance Service",9,30,270,27,297
+1849,925,"Window Cleaning Service",3,48,144,14,158
+1850,925,"Window Cleaning Service",4,39,156,16,172
+1851,926,"Plumber Service",7,33,231,23,254
+1852,926,"Plumber Service",1,21,21,2,23
+1853,927,"Flooring Service",2,39,78,8,86
+1854,927,"Plumber Service",8,21,168,17,185
+1855,928,"AC Maintenance Service",10,45,450,45,495
+1856,928,"Flooring Service",7,27,189,19,208
+1857,929,"AC Maintenance Service",5,37,185,19,204
+1858,929,"Electricity Service",5,12,60,6,66
+1859,930,"Flooring Service",10,12,120,12,132
+1860,930,"Flooring Service",2,24,48,5,53
+1861,931,"Window Cleaning Service",10,46,460,46,506
+1862,931,"AC Maintenance Service",2,40,80,8,88
+1863,932,"Flooring Service",4,48,192,19,211
+1864,932,"Plumber Service",2,18,36,4,40
+1865,933,"Window Cleaning Service",2,21,42,4,46
+1866,933,"Gas Service",9,16,144,14,158
+1867,934,"Electricity Service",5,44,220,22,242
+1868,934,"Gas Service",10,47,470,47,517
+1869,935,"AC Maintenance Service",1,23,23,2,25
+1870,935,"Electricity Service",3,41,123,12,135
+1871,936,"Plumber Service",6,31,186,19,205
+1872,936,"Plumber Service",4,34,136,14,150
+1873,937,"Window Cleaning Service",3,50,150,15,165
+1874,937,"Flooring Service",6,25,150,15,165
+1875,938,"Gas Service",10,33,330,33,363
+1876,938,"Gas Service",9,43,387,39,426
+1877,939,"Window Cleaning Service",4,10,40,4,44
+1878,939,"Electricity Service",2,30,60,6,66
+1879,940,"Plumber Service",9,19,171,17,188
+1880,940,"Flooring Service",5,36,180,18,198
+1881,941,"Plumber Service",6,23,138,14,152
+1882,941,"Window Cleaning Service",6,23,138,14,152
+1883,942,"Electricity Service",8,46,368,37,405
+1884,942,"Electricity Service",8,42,336,34,370
+1885,943,"Gas Service",7,31,217,22,239
+1886,943,"Flooring Service",3,34,102,10,112
+1887,944,"Flooring Service",10,10,100,10,110
+1888,944,"Gas Service",6,18,108,11,119
+1889,945,"AC Maintenance Service",9,17,153,15,168
+1890,945,"Flooring Service",1,40,40,4,44
+1891,946,"Plumber Service",3,33,99,10,109
+1892,946,"Plumber Service",10,44,440,44,484
+1893,947,"AC Maintenance Service",3,32,96,10,106
+1894,947,"Plumber Service",2,18,36,4,40
+1895,948,"Flooring Service",6,23,138,14,152
+1896,948,"Window Cleaning Service",9,39,351,35,386
+1897,949,"Gas Service",9,49,441,44,485
+1898,949,"Plumber Service",10,19,190,19,209
+1899,950,"Flooring Service",3,18,54,5,59
+1900,950,"Window Cleaning Service",8,32,256,26,282
+1901,951,"Gas Service",3,35,105,11,116
+1902,951,"Window Cleaning Service",5,41,205,21,226
+1903,952,"Electricity Service",1,11,11,1,12
+1904,952,"AC Maintenance Service",4,12,48,5,53
+1905,953,"Window Cleaning Service",3,43,129,13,142
+1906,953,"Window Cleaning Service",2,14,28,3,31
+1907,954,"AC Maintenance Service",6,14,84,8,92
+1908,954,"Flooring Service",3,10,30,3,33
+1909,955,"Gas Service",9,49,441,44,485
+1910,955,"Window Cleaning Service",8,17,136,14,150
+1911,956,"Gas Service",2,19,38,4,42
+1912,956,"Window Cleaning Service",10,32,320,32,352
+1913,957,"Window Cleaning Service",3,16,48,5,53
+1914,957,"Plumber Service",10,18,180,18,198
+1915,958,"Gas Service",10,39,390,39,429
+1916,958,"Plumber Service",7,28,196,20,216
+1917,959,"Gas Service",8,42,336,34,370
+1918,959,"Flooring Service",2,30,60,6,66
+1919,960,"Window Cleaning Service",6,43,258,26,284
+1920,960,"Gas Service",9,21,189,19,208
+1921,961,"Electricity Service",6,35,210,21,231
+1922,961,"Plumber Service",8,21,168,17,185
+1923,962,"Gas Service",7,20,140,14,154
+1924,962,"Gas Service",8,37,296,30,326
+1925,963,"AC Maintenance Service",9,21,189,19,208
+1926,963,"Flooring Service",2,18,36,4,40
+1927,964,"Plumber Service",8,20,160,16,176
+1928,964,"Gas Service",7,45,315,32,347
+1929,965,"Gas Service",6,29,174,17,191
+1930,965,"Electricity Service",7,16,112,11,123
+1931,966,"Electricity Service",9,15,135,14,149
+1932,966,"Electricity Service",5,44,220,22,242
+1933,967,"Gas Service",1,43,43,4,47
+1934,967,"Flooring Service",6,44,264,26,290
+1935,968,"Plumber Service",9,46,414,41,455
+1936,968,"Window Cleaning Service",4,35,140,14,154
+1937,969,"Electricity Service",1,23,23,2,25
+1938,969,"AC Maintenance Service",8,27,216,22,238
+1939,970,"Plumber Service",7,27,189,19,208
+1940,970,"Gas Service",9,21,189,19,208
+1941,971,"Plumber Service",3,10,30,3,33
+1942,971,"Flooring Service",3,21,63,6,69
+1943,972,"Plumber Service",3,12,36,4,40
+1944,972,"Window Cleaning Service",8,26,208,21,229
+1945,973,"AC Maintenance Service",9,20,180,18,198
+1946,973,"Window Cleaning Service",1,16,16,2,18
+1947,974,"Plumber Service",7,50,350,35,385
+1948,974,"Flooring Service",5,10,50,5,55
+1949,975,"Gas Service",6,25,150,15,165
+1950,975,"AC Maintenance Service",3,17,51,5,56
+1951,976,"Gas Service",10,47,470,47,517
+1952,976,"Plumber Service",3,25,75,8,83
+1953,977,"AC Maintenance Service",4,42,168,17,185
+1954,977,"Gas Service",10,46,460,46,506
+1955,978,"Electricity Service",7,25,175,18,193
+1956,978,"AC Maintenance Service",9,24,216,22,238
+1957,979,"Window Cleaning Service",3,47,141,14,155
+1958,979,"Electricity Service",10,42,420,42,462
+1959,980,"Electricity Service",7,12,84,8,92
+1960,980,"Electricity Service",4,21,84,8,92
+1961,981,"Flooring Service",3,20,60,6,66
+1962,981,"Electricity Service",3,22,66,7,73
+1963,982,"Electricity Service",6,35,210,21,231
+1964,982,"Gas Service",9,17,153,15,168
+1965,983,"AC Maintenance Service",1,45,45,5,50
+1966,983,"Electricity Service",4,35,140,14,154
+1967,984,"Plumber Service",9,40,360,36,396
+1968,984,"Flooring Service",9,10,90,9,99
+1969,985,"Gas Service",1,24,24,2,26
+1970,985,"Gas Service",7,19,133,13,146
+1971,986,"Window Cleaning Service",3,28,84,8,92
+1972,986,"Electricity Service",3,10,30,3,33
+1973,987,"Gas Service",7,48,336,34,370
+1974,987,"Window Cleaning Service",6,28,168,17,185
+1975,988,"Flooring Service",9,44,396,40,436
+1976,988,"Window Cleaning Service",2,19,38,4,42
+1977,989,"Flooring Service",8,22,176,18,194
+1978,989,"Window Cleaning Service",8,11,88,9,97
+1979,990,"Plumber Service",10,32,320,32,352
+1980,990,"Electricity Service",9,21,189,19,208
+1981,991,"Plumber Service",7,41,287,29,316
+1982,991,"Flooring Service",6,45,270,27,297
+1983,992,"Plumber Service",7,10,70,7,77
+1984,992,"Window Cleaning Service",1,34,34,3,37
+1985,993,"Electricity Service",2,14,28,3,31
+1986,993,"Plumber Service",7,35,245,25,270
+1987,994,"Gas Service",3,33,99,10,109
+1988,994,"Flooring Service",5,14,70,7,77
+1989,995,"Electricity Service",3,48,144,14,158
+1990,995,"Flooring Service",3,12,36,4,40
+1991,996,"Window Cleaning Service",2,24,48,5,53
+1992,996,"Gas Service",9,26,234,23,257
+1993,997,"Gas Service",8,47,376,38,414
+1994,997,"Gas Service",8,40,320,32,352
+1995,998,"AC Maintenance Service",5,24,120,12,132
+1996,998,"Plumber Service",8,33,264,26,290
+1997,999,"Plumber Service",4,36,144,14,158
+1998,999,"Gas Service",4,11,44,4,48
+1999,1000,"Plumber Service",8,11,88,9,97
+2000,1000,"Window Cleaning Service",9,18,162,16,178
